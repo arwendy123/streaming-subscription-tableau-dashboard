@@ -1,0 +1,12 @@
+# raw challenge files, too big for the repo (copy them from the challenge zip)
+data/raw/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# secrets and os files
+.env
+.DS_Store

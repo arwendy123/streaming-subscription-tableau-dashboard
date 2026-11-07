@@ -1,0 +1,962 @@
+user_id,account_created,age,age_band,gender,country,current_tier,current_mrr_usd,user_flag,total_sessions,skip_rate,avg_listen_seconds
+456,2022-02-14,43,35-44,Non-binary,South Africa,Premium,9.99,Not flagged,462,0.245,130.32
+147,2023-05-19,22,Under 25,Prefer not to say,United Kingdom,Premium,9.99,Fraud-flagged,260,0.065,80.246
+44,2024-01-02,81,65+,Female,France,Premium,9.99,Not flagged,285,0.161,144.428
+353,2024-02-29,90,65+,Prefer not to say,Japan,Free,0.0,Fraud-flagged,40,0.075,73.875
+983,2022-09-06,55,55-64,Prefer not to say,Sweden,Free,0.0,Fraud-flagged,173,0.092,60.607
+385,2023-01-13,30,25-34,Non-binary,France,Family,14.99,Not flagged,46,0.196,145.457
+1000,2022-05-03,68,65+,Prefer not to say,Canada,Family,14.99,Not flagged,74,0.338,122.892
+489,2021-09-04,59,55-64,Male,Sweden,Premium,9.99,Fraud-flagged,289,0.069,78.72
+764,2022-01-16,60,55-64,Other,France,Family,14.99,Fraud-flagged,158,0.044,75.076
+786,2024-08-24,64,55-64,Non-binary,Canada,Premium,9.99,Not flagged,112,0.223,136.152
+28,2022-03-28,75,65+,Prefer not to say,Canada,Free,0.0,Not flagged,43,0.442,109.535
+6,2024-11-24,16,Under 25,Male,United Kingdom,Family,14.99,Fraud-flagged,69,0.072,59.797
+923,2021-12-19,21,Under 25,Prefer not to say,Brazil,Family,14.99,Not flagged,107,0.178,139.86
+933,2023-11-22,21,Under 25,Male,Sweden,Free,0.0,Fraud-flagged,80,0.088,71.388
+132,2023-04-18,26,25-34,Female,Germany,Family,14.99,Fraud-flagged,388,0.07,79.183
+646,2023-10-15,97,65+,Non-binary,United States,Premium,9.99,Fraud-flagged,128,0.062,79.656
+924,2023-07-30,76,65+,Female,South Africa,Family,14.99,Not flagged,386,0.241,133.383
+951,2023-10-29,70,65+,Prefer not to say,Japan,Free,0.0,Not flagged,23,0.348,115.174
+296,2024-08-15,73,65+,Prefer not to say,France,Premium,9.99,Fraud-flagged,352,0.108,67.659
+818,2023-04-03,15,Under 25,Male,United States,Free,0.0,Not flagged,24,0.5,96.042
+928,2022-01-31,82,65+,Male,United States,Premium,9.99,Not flagged,199,0.166,146.06
+146,2023-10-31,53,45-54,Non-binary,Japan,Free,0.0,Fraud-flagged,73,0.096,74.192
+601,2022-12-23,57,55-64,Prefer not to say,France,Family,14.99,Fraud-flagged,388,0.134,60.51
+24,2023-03-12,78,65+,Non-binary,France,Family,14.99,Fraud-flagged,536,0.086,77.81
+357,2023-05-22,19,Under 25,Male,France,Premium,9.99,Not flagged,210,0.181,142.562
+11,2022-07-13,82,65+,Male,Australia,Family,14.99,Fraud-flagged,188,0.149,63.596
+443,2024-02-04,72,65+,Male,France,Family,14.99,Not flagged,76,0.145,146.855
+811,2023-11-23,48,45-54,Other,Australia,Premium,9.99,Fraud-flagged,129,0.116,63.961
+658,2023-11-09,56,55-64,Non-binary,Germany,Family,14.99,Not flagged,136,0.228,133.426
+317,2023-11-11,19,Under 25,Male,Japan,Free,0.0,Not flagged,24,0.458,106.25
+427,2024-07-23,30,25-34,Prefer not to say,Brazil,Family,14.99,Not flagged,14,0.214,132.071
+367,2023-05-20,34,25-34,Female,Canada,Premium,9.99,Fraud-flagged,187,0.096,75.246
+732,2024-11-12,89,65+,Other,Sweden,Free,0.0,Not flagged,7,0.429,107.429
+266,2021-06-24,22,Under 25,Non-binary,United States,Family,14.99,Fraud-flagged,47,0.043,83.213
+91,2023-07-12,38,35-44,Other,United Kingdom,Family,14.99,Not flagged,230,0.226,140.748
+507,2023-11-13,24,Under 25,Other,Australia,Family,14.99,Not flagged,279,0.158,146.903
+830,2022-11-28,37,35-44,Female,Australia,Free,0.0,Fraud-flagged,46,0.065,66.043
+477,2022-02-25,13,Under 25,Other,Australia,Family,14.99,Fraud-flagged,1014,0.097,70.698
+204,2023-03-15,36,35-44,Female,Australia,Family,14.99,Not flagged,108,0.194,137.324
+46,2022-06-17,75,65+,Female,Germany,Family,14.99,Fraud-flagged,1381,0.068,80.716
+944,2024-08-20,79,65+,Non-binary,Brazil,Premium,9.99,Fraud-flagged,77,0.169,67.857
+761,2022-06-05,46,45-54,Prefer not to say,South Africa,Family,14.99,Not flagged,98,0.173,144.796
+155,2021-09-14,74,65+,Prefer not to say,Australia,Family,14.99,Not flagged,481,0.125,153.05
+74,2023-04-22,66,65+,Female,United Kingdom,Free,0.0,Fraud-flagged,386,0.119,61.769
+129,2022-08-02,91,65+,Female,Japan,Free,0.0,Fraud-flagged,298,0.171,70.138
+376,2021-05-21,83,65+,Male,United States,Family,14.99,Not flagged,210,0.19,143.819
+812,2023-04-05,32,25-34,Female,Germany,Premium,9.99,Fraud-flagged,231,0.165,67.524
+160,2023-02-25,64,55-64,Other,United Kingdom,Free,0.0,Fraud-flagged,352,0.131,67.616
+819,2021-09-10,81,65+,Female,Japan,Free,0.0,Fraud-flagged,26,0.192,45.077
+1,2023-05-23,39,35-44,Non-binary,United States,Family,14.99,Fraud-flagged,475,0.086,72.463
+739,2023-04-09,62,55-64,Male,South Africa,Free,0.0,Not flagged,190,0.384,114.684
+282,2024-02-04,47,45-54,Other,United Kingdom,Free,0.0,Fraud-flagged,61,0.164,59.902
+961,2022-06-12,39,35-44,Female,France,Premium,9.99,Fraud-flagged,1175,0.082,73.36
+476,2021-12-30,30,25-34,Other,France,Family,14.99,Not flagged,210,0.148,149.981
+270,2024-10-20,16,Under 25,Male,Germany,Premium,9.99,Not flagged,16,0.062,163.312
+243,2023-03-31,78,65+,Other,Germany,Premium,9.99,Not flagged,539,0.232,134.701
+827,2021-02-09,84,65+,Non-binary,United Kingdom,Family,14.99,Not flagged,195,0.174,145.81
+403,2024-04-13,69,65+,Prefer not to say,Brazil,Premium,9.99,Not flagged,102,0.373,97.333
+352,2021-10-15,33,25-34,Female,France,Family,14.99,Fraud-flagged,130,0.146,67.623
+736,2024-02-22,14,Under 25,Other,United Kingdom,Free,0.0,Fraud-flagged,139,0.158,58.921
+537,2023-10-27,67,65+,Non-binary,United Kingdom,Premium,9.99,Not flagged,264,0.144,144.019
+664,2024-11-15,30,25-34,Other,Germany,Free,0.0,Fraud-flagged,3,0.0,33.0
+446,2024-11-10,60,55-64,Other,South Africa,Family,14.99,Not flagged,14,0.5,92.143
+64,2022-02-05,97,65+,Female,Sweden,Family,14.99,Fraud-flagged,1211,0.062,74.629
+5,2024-01-25,13,Under 25,Prefer not to say,Australia,Family,14.99,Not flagged,94,0.426,109.362
+39,2022-04-08,63,55-64,Non-binary,Australia,Free,0.0,Fraud-flagged,165,0.133,75.158
+575,2023-07-08,99,65+,Prefer not to say,Canada,Family,14.99,Fraud-flagged,215,0.088,75.386
+514,2023-05-23,42,35-44,Non-binary,France,Premium,9.99,Fraud-flagged,74,0.054,77.554
+748,2021-03-21,83,65+,Female,United Kingdom,Free,0.0,Not flagged,54,0.37,118.852
+895,2021-01-08,85,65+,Female,South Africa,Premium,9.99,Not flagged,106,0.179,142.84
+174,2021-03-26,55,55-64,Male,France,Premium,9.99,Fraud-flagged,1051,0.073,77.199
+958,2021-07-06,39,35-44,Non-binary,United Kingdom,Premium,9.99,Not flagged,322,0.205,138.596
+932,2022-01-12,72,65+,Non-binary,Sweden,Family,14.99,Not flagged,371,0.164,141.41
+616,2024-08-17,66,65+,Female,South Africa,Premium,9.99,Fraud-flagged,138,0.065,81.348
+530,2023-01-28,54,45-54,Male,Australia,Free,0.0,Not flagged,65,0.308,124.046
+176,2024-03-09,29,25-34,Prefer not to say,Canada,Premium,9.99,Fraud-flagged,32,0.062,61.344
+178,2024-05-08,77,65+,Female,United Kingdom,Free,0.0,Fraud-flagged,38,0.105,59.026
+18,2023-12-10,31,25-34,Other,Australia,Free,0.0,Fraud-flagged,39,0.282,54.077
+433,2024-06-15,18,Under 25,Male,South Africa,Family,14.99,Not flagged,22,0.273,131.727
+192,2023-12-20,51,45-54,Prefer not to say,Sweden,Premium,9.99,Not flagged,77,0.299,122.312
+133,2023-12-22,23,Under 25,Non-binary,Brazil,Free,0.0,Fraud-flagged,48,0.208,75.125
+63,2024-08-09,42,35-44,Male,South Africa,Premium,9.99,Fraud-flagged,74,0.081,76.23
+641,2023-05-25,34,25-34,Male,Canada,Family,14.99,Not flagged,28,0.179,128.857
+686,2023-02-11,52,45-54,Other,Canada,Premium,9.99,Fraud-flagged,256,0.125,70.934
+632,2024-07-23,80,65+,Non-binary,Sweden,Family,14.99,Fraud-flagged,82,0.085,64.427
+110,2022-10-26,52,45-54,Other,Japan,Premium,9.99,Fraud-flagged,622,0.116,69.867
+41,2024-03-30,61,55-64,Prefer not to say,United Kingdom,Family,14.99,Fraud-flagged,261,0.084,69.004
+106,2021-03-20,25,25-34,Non-binary,Brazil,Premium,9.99,Not flagged,197,0.157,144.32
+752,2021-01-02,22,Under 25,Non-binary,Canada,Premium,9.99,Not flagged,170,0.188,138.729
+740,2023-02-11,97,65+,Female,Brazil,Free,0.0,Fraud-flagged,104,0.058,67.125
+295,2021-04-18,66,65+,Non-binary,South Africa,Free,0.0,Not flagged,31,0.226,136.677
+55,2024-11-26,14,Under 25,Prefer not to say,Germany,Family,14.99,Fraud-flagged,76,0.092,75.566
+320,2021-01-09,62,55-64,Male,Japan,Family,14.99,Fraud-flagged,267,0.06,78.498
+810,2023-11-15,13,Under 25,Non-binary,Brazil,Premium,9.99,Not flagged,83,0.157,147.831
+143,2021-12-22,19,Under 25,Prefer not to say,South Africa,Premium,9.99,Not flagged,487,0.197,141.936
+796,2024-11-13,45,45-54,Other,France,Free,0.0,Not flagged,7,0.286,123.143
+463,2022-07-12,70,65+,Non-binary,United Kingdom,Premium,9.99,Not flagged,101,0.188,144.287
+141,2021-02-09,66,65+,Female,United Kingdom,Free,0.0,Not flagged,7,0.286,131.286
+934,2021-02-09,81,65+,Male,Australia,Premium,9.99,Not flagged,2419,0.175,144.215
+518,2023-03-19,28,25-34,Prefer not to say,United States,Free,0.0,Not flagged,70,0.314,126.529
+672,2024-12-11,29,25-34,Female,Japan,Family,14.99,Fraud-flagged,18,0.111,78.167
+96,2024-12-01,59,55-64,Non-binary,Australia,Family,14.99,Fraud-flagged,22,0.091,49.091
+372,2022-05-08,88,65+,Female,Brazil,Free,0.0,Not flagged,138,0.304,126.638
+633,2022-12-06,75,65+,Female,United States,Free,0.0,Fraud-flagged,94,0.106,60.277
+645,2021-05-27,71,65+,Non-binary,Australia,Family,14.99,Not flagged,367,0.183,143.616
+62,2023-02-02,21,Under 25,Female,Australia,Free,0.0,Fraud-flagged,21,0.143,90.0
+604,2023-05-26,89,65+,Prefer not to say,United States,Premium,9.99,Fraud-flagged,233,0.06,70.528
+945,2022-01-02,98,65+,Male,South Africa,Free,0.0,Fraud-flagged,70,0.1,67.757
+787,2023-06-13,63,55-64,Male,France,Premium,9.99,Fraud-flagged,271,0.092,68.14
+207,2024-08-06,42,35-44,Male,South Africa,Free,0.0,Fraud-flagged,13,0.154,74.462
+913,2021-01-02,70,65+,Female,South Africa,Free,0.0,Fraud-flagged,34,0.176,73.735
+683,2021-12-01,68,65+,Male,United States,Premium,9.99,Not flagged,266,0.147,148.169
+57,2021-11-03,93,65+,Female,South Africa,Free,0.0,Fraud-flagged,134,0.112,63.299
+128,2021-06-30,22,Under 25,Male,United States,Family,14.99,Fraud-flagged,340,0.059,78.435
+922,2021-08-31,57,55-64,Non-binary,South Africa,Premium,9.99,Not flagged,197,0.254,134.67
+209,2023-07-03,74,65+,Male,Japan,Premium,9.99,Fraud-flagged,316,0.092,74.975
+451,2023-12-15,86,65+,Prefer not to say,Germany,Family,14.99,Not flagged,229,0.175,146.686
+526,2024-07-19,18,Under 25,Non-binary,Canada,Family,14.99,Not flagged,19,0.368,114.368
+573,2024-09-14,22,Under 25,Non-binary,Canada,Free,0.0,Fraud-flagged,13,0.231,43.538
+659,2023-08-22,81,65+,Non-binary,Canada,Family,14.99,Fraud-flagged,105,0.162,66.771
+999,2021-10-16,23,Under 25,Prefer not to say,South Africa,Premium,9.99,Not flagged,142,0.148,147.683
+760,2021-05-05,49,45-54,Other,France,Family,14.99,Fraud-flagged,80,0.088,74.088
+25,2021-12-05,37,35-44,Non-binary,United Kingdom,Family,14.99,Fraud-flagged,255,0.071,78.333
+88,2024-11-05,72,65+,Other,Canada,Family,14.99,Fraud-flagged,73,0.178,50.726
+0,2024-11-06,14,Under 25,Non-binary,United States,Family,14.99,Not flagged,11,0.182,150.0
+395,2022-07-12,44,35-44,Female,United Kingdom,Free,0.0,Fraud-flagged,74,0.189,73.743
+350,2022-04-21,98,65+,Male,Brazil,Family,14.99,Fraud-flagged,321,0.109,67.399
+366,2022-03-02,65,65+,Non-binary,Japan,Free,0.0,Fraud-flagged,94,0.138,66.277
+30,2024-12-01,98,65+,Non-binary,Sweden,Free,0.0,Fraud-flagged,3,0.333,90.667
+884,2021-11-19,65,65+,Female,Australia,Premium,9.99,Not flagged,198,0.298,124.177
+260,2022-06-23,78,65+,Non-binary,Australia,Premium,9.99,Not flagged,299,0.237,130.933
+775,2021-07-02,66,65+,Male,Canada,Premium,9.99,Fraud-flagged,879,0.072,75.611
+881,2022-07-13,85,65+,Prefer not to say,Sweden,Free,0.0,Fraud-flagged,44,0.182,58.886
+820,2024-06-04,57,55-64,Prefer not to say,Brazil,Premium,9.99,Not flagged,110,0.345,117.273
+626,2023-05-03,68,65+,Other,Canada,Family,14.99,Not flagged,331,0.245,135.121
+412,2022-08-17,42,35-44,Female,Japan,Free,0.0,Not flagged,79,0.329,121.278
+629,2021-09-06,61,55-64,Male,Brazil,Family,14.99,Not flagged,293,0.212,138.904
+746,2021-01-19,42,35-44,Non-binary,United Kingdom,Free,0.0,Fraud-flagged,118,0.186,65.254
+501,2022-02-04,47,45-54,Prefer not to say,Brazil,Family,14.99,Not flagged,149,0.181,146.215
+312,2021-04-01,38,35-44,Male,Germany,Family,14.99,Not flagged,60,0.233,135.9
+917,2022-07-05,55,55-64,Non-binary,Japan,Free,0.0,Fraud-flagged,70,0.014,72.443
+663,2024-03-28,43,35-44,Male,Germany,Family,14.99,Not flagged,87,0.195,136.632
+886,2023-11-17,67,65+,Non-binary,Germany,Premium,9.99,Fraud-flagged,481,0.119,70.875
+237,2024-10-15,45,45-54,Male,Australia,Family,14.99,Not flagged,18,0.278,128.222
+839,2022-09-16,55,55-64,Prefer not to say,Canada,Free,0.0,Not flagged,92,0.25,130.228
+323,2023-10-31,25,25-34,Male,Canada,Family,14.99,Not flagged,31,0.097,154.548
+460,2023-08-30,46,45-54,Other,Canada,Family,14.99,Not flagged,188,0.255,134.016
+861,2021-11-13,43,35-44,Non-binary,South Africa,Free,0.0,Fraud-flagged,74,0.135,70.081
+355,2022-03-20,96,65+,Prefer not to say,Germany,Premium,9.99,Not flagged,331,0.178,139.87
+250,2023-02-13,51,45-54,Female,Australia,Premium,9.99,Not flagged,38,0.184,143.579
+916,2024-03-09,14,Under 25,Prefer not to say,South Africa,Free,0.0,Fraud-flagged,456,0.143,67.783
+965,2022-11-06,39,35-44,Male,South Africa,Family,14.99,Fraud-flagged,625,0.082,73.254
+311,2021-11-29,76,65+,Other,United Kingdom,Free,0.0,Not flagged,43,0.302,125.047
+306,2024-12-21,27,25-34,Prefer not to say,Australia,Free,0.0,Fraud-flagged,9,0.0,103.333
+227,2021-06-18,27,25-34,Female,Germany,Premium,9.99,Fraud-flagged,492,0.065,75.667
+23,2024-10-27,45,45-54,Other,South Africa,Premium,9.99,Not flagged,18,0.333,115.889
+553,2024-03-27,44,35-44,Other,Japan,Free,0.0,Fraud-flagged,38,0.053,83.579
+255,2024-05-09,54,45-54,Female,France,Family,14.99,Not flagged,117,0.145,139.402
+849,2024-03-06,15,Under 25,Non-binary,United Kingdom,Free,0.0,Fraud-flagged,178,0.096,71.112
+171,2021-10-31,75,65+,Other,Australia,Free,0.0,Fraud-flagged,143,0.133,73.28
+635,2023-07-13,31,25-34,Non-binary,United States,Premium,9.99,Not flagged,166,0.229,138.096
+612,2023-12-25,62,55-64,Prefer not to say,Sweden,Free,0.0,Not flagged,74,0.338,115.905
+112,2022-02-01,30,25-34,Other,Brazil,Premium,9.99,Not flagged,301,0.266,131.223
+467,2021-09-22,53,45-54,Non-binary,Australia,Family,14.99,Not flagged,73,0.219,136.151
+341,2022-12-02,74,65+,Prefer not to say,Sweden,Free,0.0,Fraud-flagged,101,0.079,65.604
+875,2023-04-18,39,35-44,Prefer not to say,Germany,Premium,9.99,Not flagged,82,0.098,153.402
+362,2024-01-28,26,25-34,Female,France,Family,14.99,Not flagged,60,0.233,122.6
+168,2022-01-20,47,45-54,Other,France,Family,14.99,Not flagged,271,0.162,144.387
+400,2022-05-05,98,65+,Male,Germany,Free,0.0,Not flagged,66,0.409,108.727
+872,2021-12-09,37,35-44,Prefer not to say,Australia,Premium,9.99,Not flagged,107,0.224,139.477
+159,2022-05-11,60,55-64,Non-binary,Japan,Family,14.99,Not flagged,273,0.161,142.802
+592,2022-01-09,40,35-44,Female,Australia,Family,14.99,Not flagged,173,0.185,142.434
+454,2023-04-15,52,45-54,Prefer not to say,South Africa,Premium,9.99,Not flagged,483,0.253,128.472
+101,2021-04-01,76,65+,Female,Germany,Family,14.99,Fraud-flagged,1229,0.074,80.246
+666,2022-01-30,19,Under 25,Female,Sweden,Free,0.0,Fraud-flagged,58,0.155,64.569
+87,2023-07-26,14,Under 25,Prefer not to say,South Africa,Free,0.0,Fraud-flagged,280,0.121,66.775
+468,2023-04-10,16,Under 25,Other,Sweden,Premium,9.99,Not flagged,504,0.361,117.442
+327,2021-08-04,27,25-34,Male,United Kingdom,Premium,9.99,Not flagged,183,0.126,149.907
+982,2023-02-15,21,Under 25,Female,Canada,Premium,9.99,Fraud-flagged,776,0.093,72.009
+621,2024-03-23,99,65+,Other,South Africa,Free,0.0,Not flagged,61,0.213,136.672
+483,2022-07-13,61,55-64,Other,France,Premium,9.99,Not flagged,234,0.141,149.346
+145,2023-08-10,36,35-44,Female,Australia,Free,0.0,Fraud-flagged,44,0.114,64.205
+619,2022-08-06,59,55-64,Other,Australia,Free,0.0,Not flagged,60,0.283,128.3
+570,2021-01-10,76,65+,Other,United Kingdom,Premium,9.99,Fraud-flagged,436,0.053,74.092
+634,2024-10-27,72,65+,Male,Canada,Family,14.99,Fraud-flagged,68,0.103,57.706
+444,2024-06-21,27,25-34,Other,South Africa,Free,0.0,Not flagged,4,0.25,147.5
+286,2022-03-01,94,65+,Non-binary,Brazil,Free,0.0,Fraud-flagged,42,0.095,71.905
+249,2024-12-27,37,35-44,Male,Germany,Free,0.0,Fraud-flagged,3,0.333,96.667
+215,2022-04-09,84,65+,Prefer not to say,South Africa,Premium,9.99,Fraud-flagged,175,0.08,80.486
+429,2022-11-01,40,35-44,Prefer not to say,Japan,Free,0.0,Not flagged,19,0.316,136.158
+674,2022-03-21,99,65+,Male,Canada,Family,14.99,Not flagged,159,0.333,118.585
+52,2022-10-20,64,55-64,Other,France,Free,0.0,Not flagged,177,0.26,130.576
+281,2023-08-30,31,25-34,Prefer not to say,Canada,Family,14.99,Not flagged,85,0.247,126.341
+853,2021-07-10,13,Under 25,Male,Japan,Premium,9.99,Not flagged,81,0.148,138.469
+931,2022-03-28,27,25-34,Prefer not to say,France,Premium,9.99,Not flagged,483,0.174,144.184
+137,2021-07-18,28,25-34,Female,Canada,Premium,9.99,Not flagged,166,0.187,144.313
+198,2021-12-06,27,25-34,Non-binary,Germany,Family,14.99,Fraud-flagged,556,0.072,74.308
+955,2021-08-17,89,65+,Non-binary,United Kingdom,Free,0.0,Fraud-flagged,384,0.151,64.901
+730,2024-01-23,59,55-64,Other,Germany,Free,0.0,Fraud-flagged,167,0.12,66.383
+343,2021-05-19,63,55-64,Other,United States,Free,0.0,Not flagged,33,0.424,108.576
+842,2023-11-23,78,65+,Male,Australia,Free,0.0,Not flagged,32,0.219,131.031
+815,2022-05-11,89,65+,Female,Brazil,Family,14.99,Not flagged,142,0.183,145.007
+519,2024-01-21,76,65+,Male,Canada,Premium,9.99,Not flagged,17,0.059,158.471
+838,2023-11-30,91,65+,Non-binary,Sweden,Free,0.0,Fraud-flagged,44,0.114,73.477
+347,2023-05-28,22,Under 25,Non-binary,Canada,Free,0.0,Not flagged,41,0.439,107.61
+413,2023-03-27,70,65+,Male,Japan,Family,14.99,Fraud-flagged,63,0.079,65.778
+840,2023-12-09,99,65+,Male,United States,Family,14.99,Not flagged,81,0.173,142.827
+453,2024-03-26,43,35-44,Other,South Africa,Free,0.0,Not flagged,4,0.25,118.5
+298,2023-12-23,91,65+,Other,Sweden,Premium,9.99,Fraud-flagged,81,0.099,62.951
+219,2024-06-03,94,65+,Female,South Africa,Premium,9.99,Fraud-flagged,206,0.126,63.32
+607,2024-10-25,67,65+,Male,Japan,Family,14.99,Fraud-flagged,98,0.01,73.316
+480,2021-10-09,74,65+,Non-binary,South Africa,Premium,9.99,Fraud-flagged,894,0.094,71.62
+369,2021-08-30,58,55-64,Non-binary,United States,Family,14.99,Not flagged,105,0.295,122.324
+743,2023-05-07,40,35-44,Non-binary,Japan,Family,14.99,Fraud-flagged,137,0.153,72.387
+92,2023-04-14,96,65+,Prefer not to say,Australia,Family,14.99,Not flagged,110,0.218,132.645
+962,2024-03-11,14,Under 25,Prefer not to say,Sweden,Family,14.99,Not flagged,106,0.198,135.84
+550,2022-09-02,56,55-64,Male,Germany,Family,14.99,Fraud-flagged,521,0.083,72.461
+14,2023-11-15,42,35-44,Female,Australia,Family,14.99,Not flagged,104,0.106,158.817
+599,2021-10-15,67,65+,Other,Canada,Premium,9.99,Not flagged,369,0.222,135.623
+435,2023-02-20,44,35-44,Non-binary,South Africa,Family,14.99,Fraud-flagged,293,0.099,68.454
+600,2021-02-01,70,65+,Prefer not to say,Brazil,Family,14.99,Fraud-flagged,309,0.052,81.262
+551,2023-03-08,41,35-44,Female,Sweden,Free,0.0,Fraud-flagged,138,0.145,71.522
+578,2023-12-10,73,65+,Non-binary,Canada,Family,14.99,Fraud-flagged,156,0.103,60.365
+290,2023-08-07,54,45-54,Non-binary,Brazil,Premium,9.99,Not flagged,252,0.246,132.734
+54,2022-06-08,75,65+,Non-binary,Germany,Family,14.99,Fraud-flagged,624,0.062,78.731
+972,2021-01-09,68,65+,Other,Japan,Premium,9.99,Not flagged,188,0.186,140.798
+710,2021-06-18,41,35-44,Non-binary,United States,Premium,9.99,Fraud-flagged,1172,0.078,76.291
+622,2024-11-21,50,45-54,Female,Japan,Free,0.0,Fraud-flagged,4,0.0,103.0
+767,2024-09-08,96,65+,Female,Japan,Free,0.0,Fraud-flagged,15,0.2,47.4
+671,2022-04-20,96,65+,Female,Sweden,Free,0.0,Fraud-flagged,135,0.193,68.504
+134,2022-01-13,16,Under 25,Female,Australia,Premium,9.99,Not flagged,277,0.188,142.895
+455,2022-09-30,74,65+,Non-binary,United States,Free,0.0,Not flagged,25,0.36,118.64
+889,2023-10-05,55,55-64,Female,United States,Family,14.99,Not flagged,110,0.236,134.036
+288,2022-06-05,13,Under 25,Male,Canada,Free,0.0,Fraud-flagged,161,0.168,62.137
+973,2021-04-09,68,65+,Male,United Kingdom,Family,14.99,Not flagged,61,0.082,155.59
+331,2022-01-16,40,35-44,Other,Canada,Free,0.0,Not flagged,254,0.362,114.713
+618,2021-08-26,83,65+,Prefer not to say,United States,Family,14.99,Fraud-flagged,138,0.087,81.529
+229,2023-02-08,83,65+,Prefer not to say,Japan,Premium,9.99,Fraud-flagged,252,0.083,71.675
+662,2022-01-31,86,65+,Non-binary,United Kingdom,Premium,9.99,Fraud-flagged,519,0.106,72.89
+284,2023-03-20,51,45-54,Non-binary,Germany,Family,14.99,Not flagged,159,0.22,137.849
+879,2022-12-21,28,25-34,Other,United Kingdom,Family,14.99,Not flagged,88,0.239,135.977
+871,2024-03-08,70,65+,Non-binary,South Africa,Family,14.99,Not flagged,25,0.28,129.72
+303,2024-10-27,14,Under 25,Female,United States,Free,0.0,Not flagged,2,0.0,160.0
+560,2021-07-10,90,65+,Female,United Kingdom,Premium,9.99,Fraud-flagged,200,0.075,78.185
+333,2024-07-14,46,45-54,Prefer not to say,France,Family,14.99,Fraud-flagged,248,0.109,68.383
+345,2023-10-27,79,65+,Female,South Africa,Premium,9.99,Not flagged,482,0.23,132.046
+293,2022-07-01,54,45-54,Prefer not to say,United States,Premium,9.99,Not flagged,257,0.195,136.358
+149,2022-05-18,97,65+,Other,France,Free,0.0,Fraud-flagged,172,0.134,70.18
+259,2021-01-09,82,65+,Female,United Kingdom,Premium,9.99,Fraud-flagged,588,0.07,75.393
+930,2024-12-05,89,65+,Prefer not to say,Australia,Premium,9.99,Fraud-flagged,27,0.074,68.333
+364,2022-08-11,55,55-64,Other,Sweden,Family,14.99,Not flagged,262,0.179,144.057
+268,2021-09-11,52,45-54,Other,France,Free,0.0,Not flagged,62,0.258,130.516
+925,2023-01-21,37,35-44,Other,Sweden,Premium,9.99,Fraud-flagged,180,0.033,79.289
+756,2023-08-20,68,65+,Non-binary,United States,Free,0.0,Not flagged,51,0.353,119.118
+247,2023-05-29,93,65+,Other,United States,Premium,9.99,Not flagged,445,0.198,140.546
+617,2024-04-05,21,Under 25,Non-binary,United States,Free,0.0,Fraud-flagged,80,0.15,75.55
+870,2023-10-06,36,35-44,Non-binary,Brazil,Free,0.0,Not flagged,53,0.113,137.83
+156,2023-11-11,96,65+,Non-binary,South Africa,Free,0.0,Not flagged,96,0.312,124.417
+194,2021-10-13,32,25-34,Other,United States,Free,0.0,Not flagged,387,0.336,123.034
+569,2021-11-09,38,35-44,Non-binary,Canada,Family,14.99,Not flagged,125,0.192,140.2
+880,2021-10-17,22,Under 25,Other,Japan,Family,14.99,Not flagged,75,0.12,154.973
+148,2021-07-18,58,55-64,Prefer not to say,Japan,Family,14.99,Fraud-flagged,85,0.071,82.082
+813,2023-08-21,61,55-64,Male,South Africa,Premium,9.99,Not flagged,171,0.216,142.994
+685,2021-02-09,50,45-54,Non-binary,Brazil,Family,14.99,Fraud-flagged,669,0.055,79.028
+346,2021-10-08,45,45-54,Male,Sweden,Free,0.0,Not flagged,100,0.4,113.57
+863,2024-12-14,82,65+,Prefer not to say,United Kingdom,Free,0.0,Not flagged,3,0.333,128.333
+326,2021-11-21,27,25-34,Prefer not to say,United States,Premium,9.99,Fraud-flagged,1041,0.089,74.74
+4,2021-10-15,73,65+,Prefer not to say,Brazil,Free,0.0,Fraud-flagged,72,0.083,68.986
+107,2023-06-04,34,25-34,Non-binary,United States,Premium,9.99,Not flagged,139,0.223,137.05
+597,2022-06-17,62,55-64,Prefer not to say,Brazil,Family,14.99,Fraud-flagged,232,0.112,74.69
+677,2023-07-03,28,25-34,Female,Brazil,Free,0.0,Not flagged,48,0.292,128.5
+231,2022-12-05,13,Under 25,Male,Sweden,Premium,9.99,Not flagged,157,0.223,135.688
+851,2024-05-20,75,65+,Non-binary,Brazil,Free,0.0,Fraud-flagged,56,0.107,80.018
+723,2023-04-11,66,65+,Other,Sweden,Family,14.99,Not flagged,44,0.159,144.432
+698,2024-04-12,57,55-64,Other,Germany,Family,14.99,Not flagged,43,0.395,110.372
+544,2022-11-11,98,65+,Prefer not to say,Germany,Free,0.0,Fraud-flagged,44,0.159,74.886
+384,2024-12-12,32,25-34,Non-binary,Germany,Free,0.0,Fraud-flagged,3,0.333,79.333
+595,2024-07-07,69,65+,Prefer not to say,Sweden,Free,0.0,Fraud-flagged,20,0.3,58.75
+324,2021-10-15,24,Under 25,Female,United Kingdom,Premium,9.99,Not flagged,515,0.208,139.849
+953,2024-02-23,18,Under 25,Prefer not to say,Brazil,Premium,9.99,Fraud-flagged,77,0.091,60.351
+717,2023-05-28,96,65+,Female,Japan,Premium,9.99,Fraud-flagged,247,0.166,56.227
+448,2024-05-30,57,55-64,Male,Canada,Premium,9.99,Fraud-flagged,80,0.05,79.988
+208,2023-02-25,60,55-64,Non-binary,Germany,Free,0.0,Fraud-flagged,154,0.071,68.39
+69,2022-10-17,90,65+,Other,United States,Free,0.0,Fraud-flagged,99,0.121,74.818
+294,2024-08-18,85,65+,Female,Canada,Free,0.0,Not flagged,7,0.143,160.714
+490,2021-03-16,27,25-34,Male,South Africa,Premium,9.99,Fraud-flagged,1272,0.091,73.727
+942,2024-07-14,27,25-34,Prefer not to say,United Kingdom,Free,0.0,Not flagged,15,0.6,67.6
+614,2024-04-21,56,55-64,Female,South Africa,Premium,9.99,Fraud-flagged,1208,0.067,70.169
+411,2023-03-10,70,65+,Non-binary,France,Family,14.99,Not flagged,219,0.174,142.274
+791,2021-03-21,21,Under 25,Female,Japan,Family,14.99,Not flagged,85,0.271,127.718
+276,2022-04-13,28,25-34,Female,Sweden,Premium,9.99,Not flagged,378,0.257,128.952
+585,2023-07-08,26,25-34,Prefer not to say,Germany,Family,14.99,Fraud-flagged,421,0.071,79.23
+9,2022-06-07,68,65+,Non-binary,Brazil,Family,14.99,Not flagged,234,0.184,139.803
+242,2021-01-31,39,35-44,Prefer not to say,Germany,Free,0.0,Fraud-flagged,193,0.093,69.14
+678,2023-11-03,78,65+,Prefer not to say,Canada,Premium,9.99,Not flagged,112,0.205,143.473
+34,2022-07-27,88,65+,Female,Japan,Family,14.99,Fraud-flagged,641,0.069,77.735
+414,2023-08-17,97,65+,Other,Canada,Free,0.0,Fraud-flagged,60,0.133,78.183
+180,2023-06-13,96,65+,Non-binary,France,Premium,9.99,Not flagged,548,0.182,143.555
+502,2023-11-16,47,45-54,Non-binary,United Kingdom,Premium,9.99,Not flagged,106,0.179,141.066
+475,2021-05-06,33,25-34,Male,Australia,Family,14.99,Fraud-flagged,111,0.081,83.0
+532,2021-07-13,97,65+,Prefer not to say,United States,Family,14.99,Fraud-flagged,428,0.086,72.603
+67,2024-08-26,80,65+,Male,Canada,Family,14.99,Fraud-flagged,115,0.13,67.304
+289,2024-03-10,49,45-54,Prefer not to say,Sweden,Premium,9.99,Fraud-flagged,46,0.13,64.565
+898,2021-06-20,94,65+,Female,Germany,Premium,9.99,Not flagged,171,0.193,140.433
+452,2023-04-19,93,65+,Prefer not to say,United States,Free,0.0,Fraud-flagged,182,0.137,69.901
+911,2021-10-01,83,65+,Prefer not to say,Brazil,Family,14.99,Not flagged,175,0.223,132.011
+533,2022-06-22,83,65+,Non-binary,Canada,Family,14.99,Not flagged,477,0.249,131.495
+548,2022-01-25,69,65+,Male,Australia,Family,14.99,Fraud-flagged,256,0.047,74.773
+430,2024-04-25,21,Under 25,Non-binary,France,Family,14.99,Not flagged,56,0.304,127.571
+557,2021-07-30,37,35-44,Male,Brazil,Family,14.99,Fraud-flagged,42,0.024,73.238
+66,2023-08-02,79,65+,Female,Germany,Family,14.99,Fraud-flagged,108,0.065,66.463
+598,2021-04-26,95,65+,Female,Australia,Premium,9.99,Not flagged,279,0.233,135.477
+709,2023-08-22,44,35-44,Male,Canada,Family,14.99,Fraud-flagged,567,0.072,73.578
+605,2024-07-07,42,35-44,Non-binary,Brazil,Family,14.99,Fraud-flagged,183,0.082,74.361
+47,2022-11-28,45,45-54,Male,Germany,Free,0.0,Fraud-flagged,31,0.161,61.032
+711,2022-10-23,38,35-44,Other,United States,Free,0.0,Fraud-flagged,83,0.181,68.12
+784,2021-04-16,83,65+,Female,Sweden,Premium,9.99,Fraud-flagged,328,0.082,79.96
+287,2024-02-24,41,35-44,Female,United States,Premium,9.99,Not flagged,183,0.355,117.137
+652,2022-07-31,87,65+,Non-binary,United States,Free,0.0,Fraud-flagged,67,0.179,51.612
+438,2022-07-19,51,45-54,Male,France,Premium,9.99,Fraud-flagged,194,0.057,71.696
+627,2022-02-13,13,Under 25,Prefer not to say,Canada,Family,14.99,Fraud-flagged,551,0.082,78.169
+150,2022-03-31,69,65+,Prefer not to say,France,Free,0.0,Fraud-flagged,101,0.129,84.436
+440,2021-09-09,95,65+,Female,France,Premium,9.99,Not flagged,304,0.234,133.875
+84,2024-06-23,24,Under 25,Female,Canada,Premium,9.99,Not flagged,54,0.167,140.13
+836,2024-11-18,60,55-64,Male,Sweden,Family,14.99,Fraud-flagged,88,0.114,62.443
+971,2022-11-01,38,35-44,Prefer not to say,Australia,Premium,9.99,Fraud-flagged,931,0.093,70.496
+606,2022-04-23,52,45-54,Female,France,Premium,9.99,Not flagged,168,0.292,123.399
+980,2021-03-11,51,45-54,Other,South Africa,Premium,9.99,Not flagged,104,0.231,135.51
+68,2021-02-23,40,35-44,Female,Japan,Free,0.0,Fraud-flagged,19,0.158,62.158
+277,2023-12-03,58,55-64,Other,Germany,Family,14.99,Not flagged,30,0.233,129.4
+545,2024-11-14,41,35-44,Non-binary,Canada,Free,0.0,Fraud-flagged,8,0.125,54.625
+642,2022-09-18,20,Under 25,Other,Australia,Family,14.99,Not flagged,90,0.178,142.578
+164,2022-02-09,17,Under 25,Prefer not to say,South Africa,Free,0.0,Fraud-flagged,281,0.181,65.783
+615,2022-09-15,24,Under 25,Non-binary,Sweden,Family,14.99,Fraud-flagged,189,0.095,67.582
+927,2021-11-05,45,45-54,Male,South Africa,Family,14.99,Not flagged,57,0.246,129.877
+10,2024-07-17,27,25-34,Prefer not to say,Sweden,Family,14.99,Fraud-flagged,112,0.098,58.393
+608,2023-08-19,39,35-44,Female,Canada,Free,0.0,Not flagged,14,0.0,168.429
+342,2022-07-23,38,35-44,Other,South Africa,Premium,9.99,Fraud-flagged,302,0.096,79.57
+735,2024-08-09,13,Under 25,Female,Japan,Family,14.99,Fraud-flagged,16,0.188,68.5
+769,2022-12-14,95,65+,Prefer not to say,Japan,Premium,9.99,Fraud-flagged,724,0.072,82.374
+81,2021-07-12,71,65+,Male,Canada,Free,0.0,Not flagged,78,0.295,132.462
+59,2024-08-09,23,Under 25,Female,France,Family,14.99,Fraud-flagged,77,0.104,68.844
+238,2024-07-05,91,65+,Other,France,Premium,9.99,Not flagged,16,0.562,84.375
+421,2021-03-21,89,65+,Non-binary,Japan,Free,0.0,Fraud-flagged,817,0.12,69.599
+725,2022-04-04,80,65+,Male,Germany,Family,14.99,Not flagged,808,0.202,141.103
+179,2023-02-23,22,Under 25,Other,Brazil,Free,0.0,Not flagged,16,0.375,107.812
+974,2022-05-12,55,55-64,Female,Canada,Family,14.99,Not flagged,354,0.257,130.701
+71,2021-07-09,86,65+,Male,France,Family,14.99,Not flagged,155,0.174,145.968
+858,2021-02-23,40,35-44,Male,Canada,Family,14.99,Not flagged,109,0.193,140.183
+113,2021-08-19,61,55-64,Other,Canada,Free,0.0,Fraud-flagged,84,0.107,68.964
+419,2024-10-23,35,35-44,Non-binary,France,Premium,9.99,Not flagged,15,0.2,133.933
+669,2023-04-21,31,25-34,Other,Sweden,Premium,9.99,Not flagged,371,0.218,139.822
+513,2022-12-15,40,35-44,Male,United States,Family,14.99,Fraud-flagged,888,0.139,67.964
+262,2022-07-16,76,65+,Non-binary,Canada,Family,14.99,Not flagged,371,0.175,146.159
+108,2023-11-01,51,45-54,Female,Australia,Premium,9.99,Fraud-flagged,305,0.072,75.666
+712,2021-07-26,72,65+,Non-binary,United Kingdom,Premium,9.99,Not flagged,281,0.171,145.335
+48,2023-08-16,44,35-44,Prefer not to say,United Kingdom,Free,0.0,Fraud-flagged,261,0.119,58.264
+181,2022-12-01,96,65+,Female,Japan,Premium,9.99,Not flagged,377,0.199,140.793
+563,2024-01-30,17,Under 25,Prefer not to say,South Africa,Family,14.99,Not flagged,218,0.266,131.459
+391,2024-04-17,13,Under 25,Non-binary,Brazil,Premium,9.99,Not flagged,29,0.241,142.103
+124,2021-09-26,46,45-54,Other,South Africa,Free,0.0,Not flagged,17,0.471,92.882
+797,2021-05-14,84,65+,Male,United States,Family,14.99,Not flagged,79,0.304,124.051
+631,2021-09-05,72,65+,Male,South Africa,Premium,9.99,Fraud-flagged,497,0.082,79.732
+375,2024-09-13,24,Under 25,Non-binary,Brazil,Family,14.99,Not flagged,23,0.391,84.87
+267,2022-03-12,71,65+,Male,South Africa,Free,0.0,Not flagged,49,0.449,106.735
+623,2024-05-11,58,55-64,Other,Germany,Free,0.0,Not flagged,8,0.375,98.375
+822,2023-02-22,31,25-34,Female,Japan,Free,0.0,Fraud-flagged,63,0.063,77.619
+770,2023-03-12,79,65+,Female,Germany,Free,0.0,Fraud-flagged,397,0.091,65.02
+580,2021-08-02,13,Under 25,Other,Sweden,Free,0.0,Not flagged,23,0.391,110.043
+824,2021-04-26,20,Under 25,Female,Canada,Premium,9.99,Not flagged,182,0.192,139.137
+991,2022-09-14,49,45-54,Female,Brazil,Premium,9.99,Not flagged,187,0.203,139.61
+280,2022-06-05,75,65+,Other,Germany,Family,14.99,Fraud-flagged,288,0.094,75.003
+182,2022-07-08,71,65+,Prefer not to say,United Kingdom,Premium,9.99,Fraud-flagged,1163,0.077,75.476
+985,2024-10-11,14,Under 25,Other,Canada,Premium,9.99,Not flagged,23,0.348,116.174
+131,2021-06-23,81,65+,Non-binary,Australia,Family,14.99,Fraud-flagged,1135,0.085,75.864
+445,2024-02-27,91,65+,Other,Brazil,Free,0.0,Not flagged,6,0.333,129.833
+734,2023-03-14,38,35-44,Prefer not to say,Germany,Family,14.99,Not flagged,30,0.2,153.5
+591,2021-07-07,16,Under 25,Other,Australia,Premium,9.99,Fraud-flagged,48,0.083,75.354
+189,2021-02-20,26,25-34,Female,United Kingdom,Family,14.99,Not flagged,68,0.176,146.426
+360,2021-11-24,42,35-44,Other,Japan,Premium,9.99,Not flagged,111,0.342,118.955
+368,2022-01-16,51,45-54,Non-binary,United Kingdom,Family,14.99,Not flagged,196,0.179,137.23
+203,2023-12-14,42,35-44,Other,South Africa,Free,0.0,Not flagged,30,0.3,121.767
+707,2024-06-02,38,35-44,Prefer not to say,Germany,Family,14.99,Not flagged,34,0.353,123.441
+912,2024-08-04,55,55-64,Female,Germany,Family,14.99,Not flagged,58,0.224,138.138
+795,2022-07-24,19,Under 25,Other,Germany,Family,14.99,Not flagged,222,0.225,134.671
+800,2022-04-12,81,65+,Non-binary,Germany,Free,0.0,Not flagged,40,0.4,107.3
+158,2024-12-30,49,45-54,Non-binary,Germany,Free,0.0,Not flagged,3,0.0,151.0
+783,2023-02-24,91,65+,Female,Brazil,Family,14.99,Fraud-flagged,584,0.055,80.62
+747,2022-01-07,77,65+,Prefer not to say,United States,Free,0.0,Fraud-flagged,41,0.22,47.902
+742,2022-04-15,24,Under 25,Prefer not to say,United States,Premium,9.99,Fraud-flagged,48,0.062,61.938
+418,2023-01-23,25,25-34,Non-binary,United States,Premium,9.99,Not flagged,204,0.377,110.99
+523,2023-03-03,13,Under 25,Male,Japan,Premium,9.99,Fraud-flagged,429,0.086,75.611
+15,2021-01-20,61,55-64,Other,United Kingdom,Premium,9.99,Not flagged,128,0.188,144.43
+291,2024-11-01,43,35-44,Male,Australia,Premium,9.99,Not flagged,41,0.341,120.488
+528,2023-04-21,45,45-54,Female,South Africa,Family,14.99,Fraud-flagged,416,0.091,81.738
+125,2023-05-11,57,55-64,Prefer not to say,Canada,Free,0.0,Not flagged,10,0.3,124.1
+130,2021-11-05,59,55-64,Female,Canada,Premium,9.99,Fraud-flagged,506,0.083,72.101
+45,2024-01-22,13,Under 25,Male,United States,Free,0.0,Not flagged,23,0.217,134.913
+210,2023-12-13,22,Under 25,Non-binary,United Kingdom,Free,0.0,Not flagged,43,0.442,109.512
+993,2021-05-19,81,65+,Non-binary,United States,Premium,9.99,Not flagged,805,0.229,134.012
+696,2023-05-19,95,65+,Non-binary,Japan,Premium,9.99,Fraud-flagged,376,0.117,65.822
+949,2023-08-19,85,65+,Prefer not to say,Brazil,Free,0.0,Fraud-flagged,55,0.164,60.145
+257,2024-05-04,91,65+,Non-binary,Canada,Free,0.0,Not flagged,5,0.4,84.8
+892,2024-07-05,84,65+,Prefer not to say,Australia,Family,14.99,Fraud-flagged,118,0.161,61.992
+657,2021-05-21,90,65+,Other,Germany,Free,0.0,Not flagged,21,0.286,121.667
+693,2021-06-04,25,25-34,Other,Japan,Free,0.0,Not flagged,8,0.125,146.375
+833,2021-10-16,25,25-34,Non-binary,United Kingdom,Free,0.0,Not flagged,54,0.315,130.204
+970,2022-02-17,48,45-54,Other,Brazil,Free,0.0,Fraud-flagged,264,0.106,72.939
+583,2023-12-30,96,65+,Male,United States,Premium,9.99,Fraud-flagged,1524,0.066,75.728
+869,2021-09-30,40,35-44,Non-binary,Canada,Free,0.0,Not flagged,13,0.769,55.692
+630,2023-05-26,96,65+,Other,Canada,Free,0.0,Not flagged,40,0.325,127.25
+549,2024-09-18,29,25-34,Non-binary,Germany,Premium,9.99,Fraud-flagged,187,0.096,68.433
+228,2024-04-30,34,25-34,Other,France,Premium,9.99,Not flagged,34,0.235,137.735
+516,2023-08-04,32,25-34,Male,Canada,Family,14.99,Not flagged,868,0.195,135.869
+624,2023-11-11,76,65+,Other,United States,Free,0.0,Fraud-flagged,97,0.093,76.876
+904,2021-07-15,72,65+,Female,Canada,Free,0.0,Fraud-flagged,91,0.11,66.824
+581,2021-01-15,48,45-54,Female,United States,Family,14.99,Fraud-flagged,297,0.077,80.165
+165,2022-09-26,20,Under 25,Female,France,Premium,9.99,Not flagged,240,0.179,141.633
+988,2021-05-11,58,55-64,Male,Sweden,Premium,9.99,Not flagged,93,0.204,138.548
+755,2024-08-30,36,35-44,Other,United Kingdom,Free,0.0,Not flagged,3,0.333,122.667
+370,2024-04-10,70,65+,Female,Sweden,Premium,9.99,Fraud-flagged,181,0.16,59.486
+868,2021-08-13,88,65+,Other,Germany,Family,14.99,Not flagged,159,0.239,133.277
+524,2021-03-12,40,35-44,Prefer not to say,Canada,Free,0.0,Not flagged,22,0.364,115.364
+373,2023-08-13,66,65+,Other,Sweden,Family,14.99,Not flagged,38,0.132,146.342
+864,2023-07-27,87,65+,Male,United States,Premium,9.99,Fraud-flagged,528,0.106,69.5
+173,2022-06-24,31,25-34,Prefer not to say,Canada,Family,14.99,Fraud-flagged,322,0.09,69.233
+584,2022-12-16,17,Under 25,Prefer not to say,Canada,Family,14.99,Fraud-flagged,225,0.027,80.738
+854,2021-12-17,45,45-54,Male,Canada,Premium,9.99,Fraud-flagged,503,0.058,75.946
+420,2022-04-04,16,Under 25,Prefer not to say,France,Premium,9.99,Not flagged,907,0.189,138.945
+832,2022-09-03,77,65+,Female,United States,Premium,9.99,Fraud-flagged,263,0.057,77.932
+759,2024-10-27,73,65+,Prefer not to say,Japan,Family,14.99,Fraud-flagged,48,0.167,71.479
+643,2023-12-04,98,65+,Female,Brazil,Family,14.99,Not flagged,132,0.189,139.811
+195,2024-03-24,43,35-44,Female,United States,Premium,9.99,Not flagged,53,0.264,130.453
+964,2021-06-15,42,35-44,Female,Japan,Free,0.0,Not flagged,28,0.464,101.0
+104,2022-12-05,59,55-64,Other,Brazil,Free,0.0,Not flagged,42,0.262,137.786
+252,2021-02-26,22,Under 25,Non-binary,Brazil,Premium,9.99,Fraud-flagged,537,0.071,77.184
+546,2024-08-16,95,65+,Female,United Kingdom,Family,14.99,Not flagged,37,0.216,140.649
+85,2024-10-23,72,65+,Male,United Kingdom,Premium,9.99,Not flagged,49,0.388,119.429
+105,2021-01-06,23,Under 25,Non-binary,Sweden,Free,0.0,Not flagged,47,0.319,132.319
+241,2021-11-07,66,65+,Male,Brazil,Family,14.99,Not flagged,88,0.148,142.807
+534,2021-09-21,39,35-44,Male,Canada,Family,14.99,Fraud-flagged,241,0.1,76.017
+543,2024-02-15,28,25-34,Non-binary,United States,Free,0.0,Fraud-flagged,166,0.108,84.416
+856,2023-05-24,54,45-54,Female,Australia,Free,0.0,Not flagged,21,0.143,139.952
+750,2024-04-03,13,Under 25,Female,Australia,Family,14.99,Not flagged,19,0.211,133.158
+175,2022-07-20,47,45-54,Prefer not to say,Sweden,Free,0.0,Not flagged,60,0.35,118.4
+901,2022-02-05,72,65+,Other,South Africa,Family,14.99,Not flagged,37,0.216,127.486
+667,2022-09-12,99,65+,Other,Germany,Family,14.99,Fraud-flagged,936,0.081,74.404
+53,2024-08-30,83,65+,Prefer not to say,Germany,Premium,9.99,Fraud-flagged,51,0.137,70.098
+97,2024-02-29,79,65+,Non-binary,United States,Premium,9.99,Not flagged,187,0.251,127.995
+834,2022-01-21,33,25-34,Non-binary,France,Premium,9.99,Not flagged,207,0.188,140.391
+960,2021-08-23,57,55-64,Prefer not to say,Brazil,Free,0.0,Fraud-flagged,69,0.13,53.681
+665,2024-10-14,68,65+,Male,South Africa,Premium,9.99,Not flagged,4,0.0,170.5
+536,2024-12-30,74,65+,Male,Germany,Free,0.0,Fraud-flagged,5,0.2,73.0
+89,2024-01-18,22,Under 25,Non-binary,Australia,Premium,9.99,Fraud-flagged,116,0.121,69.06
+808,2024-08-05,16,Under 25,Male,Sweden,Family,14.99,Fraud-flagged,52,0.038,65.808
+447,2022-05-01,49,45-54,Other,France,Premium,9.99,Fraud-flagged,351,0.111,69.835
+777,2023-08-25,99,65+,Female,United States,Premium,9.99,Not flagged,43,0.093,163.233
+620,2023-01-03,17,Under 25,Non-binary,Brazil,Premium,9.99,Not flagged,188,0.154,148.787
+773,2022-10-10,13,Under 25,Non-binary,Brazil,Free,0.0,Not flagged,77,0.312,125.701
+890,2023-02-17,55,55-64,Prefer not to say,South Africa,Family,14.99,Fraud-flagged,456,0.11,68.623
+402,2021-03-28,37,35-44,Prefer not to say,United Kingdom,Family,14.99,Fraud-flagged,218,0.083,76.729
+515,2023-11-12,16,Under 25,Prefer not to say,South Africa,Premium,9.99,Fraud-flagged,294,0.088,76.67
+224,2024-06-24,58,55-64,Other,Japan,Family,14.99,Not flagged,127,0.228,136.157
+997,2023-09-09,13,Under 25,Non-binary,France,Family,14.99,Not flagged,101,0.149,146.347
+98,2021-01-29,18,Under 25,Other,Japan,Free,0.0,Not flagged,26,0.308,129.308
+975,2021-03-28,16,Under 25,Other,Japan,Family,14.99,Fraud-flagged,930,0.068,78.333
+100,2022-05-29,73,65+,Prefer not to say,France,Premium,9.99,Fraud-flagged,995,0.091,73.667
+330,2021-10-04,35,35-44,Male,South Africa,Family,14.99,Not flagged,295,0.166,146.556
+308,2024-02-14,66,65+,Other,Australia,Free,0.0,Not flagged,105,0.4,104.095
+998,2021-06-11,77,65+,Other,South Africa,Free,0.0,Fraud-flagged,92,0.065,65.598
+801,2021-05-08,77,65+,Male,France,Free,0.0,Fraud-flagged,692,0.134,70.376
+882,2021-03-08,76,65+,Male,Australia,Family,14.99,Not flagged,14,0.286,125.0
+651,2024-11-04,77,65+,Other,Japan,Premium,9.99,Fraud-flagged,97,0.093,70.031
+322,2024-04-16,19,Under 25,Non-binary,France,Free,0.0,Fraud-flagged,100,0.19,64.51
+907,2022-01-27,18,Under 25,Non-binary,Canada,Family,14.99,Not flagged,85,0.129,150.965
+299,2022-07-14,44,35-44,Male,Brazil,Premium,9.99,Fraud-flagged,646,0.088,74.729
+152,2023-08-05,53,45-54,Other,Brazil,Premium,9.99,Not flagged,231,0.221,137.632
+275,2024-11-26,58,55-64,Prefer not to say,Germany,Family,14.99,Not flagged,3,0.333,125.667
+594,2023-03-16,91,65+,Prefer not to say,Brazil,Family,14.99,Fraud-flagged,664,0.111,69.181
+887,2022-03-22,79,65+,Female,France,Free,0.0,Not flagged,84,0.405,114.548
+136,2023-02-16,49,45-54,Female,Brazil,Family,14.99,Not flagged,68,0.176,139.721
+681,2021-03-21,42,35-44,Prefer not to say,Japan,Free,0.0,Not flagged,14,0.429,112.143
+896,2021-01-11,36,35-44,Male,Japan,Family,14.99,Not flagged,479,0.148,146.99
+909,2023-09-25,67,65+,Male,Japan,Free,0.0,Not flagged,13,0.538,90.385
+613,2024-09-04,84,65+,Prefer not to say,Canada,Family,14.99,Not flagged,27,0.037,156.37
+668,2022-04-15,28,25-34,Prefer not to say,Japan,Premium,9.99,Fraud-flagged,776,0.11,72.354
+914,2024-07-28,44,35-44,Female,United Kingdom,Premium,9.99,Fraud-flagged,743,0.151,62.323
+381,2022-03-05,47,45-54,Non-binary,Canada,Family,14.99,Not flagged,112,0.143,146.438
+720,2022-10-05,39,35-44,Other,Canada,Premium,9.99,Not flagged,233,0.309,126.026
+640,2024-07-14,13,Under 25,Other,Australia,Premium,9.99,Not flagged,30,0.333,113.133
+865,2021-02-23,34,25-34,Prefer not to say,Sweden,Family,14.99,Fraud-flagged,352,0.085,68.216
+788,2023-07-15,33,25-34,Prefer not to say,Sweden,Family,14.99,Not flagged,84,0.155,140.786
+307,2024-08-16,79,65+,Other,United States,Free,0.0,Not flagged,4,0.25,127.75
+897,2024-11-26,42,35-44,Female,Canada,Premium,9.99,Not flagged,14,0.286,134.643
+680,2024-10-18,40,35-44,Other,United Kingdom,Family,14.99,Not flagged,15,0.133,148.667
+2,2021-01-13,98,65+,Prefer not to say,Canada,Family,14.99,Not flagged,585,0.156,146.159
+183,2024-12-03,17,Under 25,Female,Sweden,Premium,9.99,Fraud-flagged,70,0.243,51.629
+935,2024-08-10,86,65+,Male,United States,Premium,9.99,Fraud-flagged,24,0.042,62.917
+954,2021-02-10,46,45-54,Male,United Kingdom,Premium,9.99,Not flagged,112,0.152,149.161
+410,2021-01-27,83,65+,Other,France,Premium,9.99,Not flagged,69,0.217,142.333
+969,2022-06-20,16,Under 25,Female,South Africa,Family,14.99,Not flagged,167,0.09,157.994
+49,2022-01-13,67,65+,Non-binary,France,Family,14.99,Fraud-flagged,379,0.106,71.398
+968,2024-05-21,93,65+,Non-binary,Canada,Family,14.99,Fraud-flagged,352,0.125,66.065
+36,2024-02-29,81,65+,Prefer not to say,Brazil,Free,0.0,Fraud-flagged,56,0.161,68.268
+758,2023-03-21,22,Under 25,Male,France,Free,0.0,Fraud-flagged,55,0.091,79.018
+382,2022-07-05,98,65+,Male,United States,Free,0.0,Fraud-flagged,175,0.16,64.634
+292,2021-08-01,77,65+,Non-binary,France,Premium,9.99,Fraud-flagged,1894,0.101,70.766
+753,2022-10-04,40,35-44,Other,United Kingdom,Family,14.99,Fraud-flagged,369,0.049,72.954
+325,2024-04-13,28,25-34,Non-binary,United States,Premium,9.99,Not flagged,173,0.162,146.832
+610,2024-03-30,39,35-44,Non-binary,United States,Family,14.99,Fraud-flagged,211,0.066,75.725
+225,2023-06-19,21,Under 25,Female,Australia,Free,0.0,Not flagged,34,0.235,132.412
+749,2022-03-13,34,25-34,Female,Germany,Family,14.99,Fraud-flagged,694,0.079,77.393
+493,2023-10-25,48,45-54,Female,Japan,Family,14.99,Not flagged,77,0.247,125.377
+431,2022-08-14,52,45-54,Female,Canada,Premium,9.99,Not flagged,66,0.182,144.182
+239,2023-05-26,45,45-54,Female,United States,Free,0.0,Not flagged,28,0.357,114.321
+17,2024-12-28,80,65+,Female,Japan,Free,0.0,Not flagged,2,0.5,86.0
+682,2023-01-19,62,55-64,Non-binary,Canada,Family,14.99,Not flagged,89,0.213,135.449
+80,2023-04-18,85,65+,Other,Australia,Premium,9.99,Not flagged,157,0.153,138.879
+344,2024-02-11,23,Under 25,Other,South Africa,Free,0.0,Not flagged,16,0.125,145.25
+745,2021-04-06,18,Under 25,Male,United Kingdom,Premium,9.99,Not flagged,63,0.175,146.079
+470,2023-12-20,39,35-44,Prefer not to say,Canada,Free,0.0,Fraud-flagged,130,0.162,65.877
+358,2024-03-27,54,45-54,Other,Japan,Free,0.0,Not flagged,18,0.222,141.5
+837,2022-03-05,33,25-34,Male,Brazil,Family,14.99,Not flagged,469,0.164,147.606
+644,2023-11-27,58,55-64,Non-binary,Canada,Family,14.99,Fraud-flagged,68,0.074,84.75
+351,2024-05-18,81,65+,Male,Germany,Free,0.0,Not flagged,16,0.375,116.062
+816,2021-06-05,75,65+,Non-binary,Brazil,Family,14.99,Fraud-flagged,411,0.054,75.297
+802,2021-07-21,73,65+,Female,Australia,Free,0.0,Fraud-flagged,40,0.2,81.15
+157,2022-09-02,33,25-34,Female,France,Family,14.99,Not flagged,181,0.293,131.956
+876,2021-03-22,87,65+,Other,Japan,Family,14.99,Fraud-flagged,286,0.077,75.234
+527,2024-05-08,43,35-44,Non-binary,United Kingdom,Free,0.0,Fraud-flagged,39,0.103,53.205
+223,2023-10-22,29,25-34,Female,Japan,Family,14.99,Fraud-flagged,308,0.052,68.523
+365,2024-07-18,39,35-44,Other,South Africa,Family,14.99,Not flagged,58,0.397,109.276
+37,2023-04-23,24,Under 25,Male,Sweden,Free,0.0,Fraud-flagged,211,0.118,68.351
+691,2021-06-19,26,25-34,Prefer not to say,Japan,Free,0.0,Not flagged,152,0.316,121.046
+708,2021-01-04,77,65+,Male,France,Family,14.99,Fraud-flagged,1290,0.131,72.405
+363,2023-04-17,50,45-54,Non-binary,United States,Free,0.0,Fraud-flagged,465,0.172,64.682
+724,2022-06-29,17,Under 25,Female,Australia,Family,14.99,Not flagged,168,0.262,128.673
+383,2022-04-23,68,65+,Non-binary,United Kingdom,Family,14.99,Not flagged,580,0.238,134.338
+996,2023-10-26,71,65+,Male,Australia,Premium,9.99,Fraud-flagged,356,0.121,68.584
+862,2023-10-11,33,25-34,Male,United States,Family,14.99,Fraud-flagged,658,0.074,74.415
+995,2022-01-06,86,65+,Other,United States,Premium,9.99,Fraud-flagged,490,0.073,73.618
+465,2022-07-17,51,45-54,Other,Sweden,Premium,9.99,Not flagged,140,0.207,141.186
+866,2023-10-20,96,65+,Non-binary,United Kingdom,Family,14.99,Fraud-flagged,339,0.062,74.295
+90,2023-02-11,41,35-44,Female,Japan,Free,0.0,Not flagged,65,0.262,134.277
+738,2021-03-01,29,25-34,Male,Japan,Premium,9.99,Not flagged,703,0.202,140.835
+116,2021-08-01,18,Under 25,Prefer not to say,France,Free,0.0,Not flagged,31,0.355,113.226
+339,2024-02-01,60,55-64,Prefer not to say,Australia,Premium,9.99,Fraud-flagged,1096,0.113,71.276
+170,2023-07-13,88,65+,Prefer not to say,United Kingdom,Family,14.99,Fraud-flagged,322,0.078,71.435
+114,2023-01-18,43,35-44,Male,Canada,Family,14.99,Fraud-flagged,641,0.07,72.382
+772,2021-09-11,18,Under 25,Non-binary,United States,Premium,9.99,Fraud-flagged,916,0.071,78.09
+102,2024-09-27,50,45-54,Prefer not to say,Sweden,Premium,9.99,Not flagged,45,0.178,143.289
+661,2022-11-15,53,45-54,Female,Brazil,Family,14.99,Not flagged,213,0.268,127.854
+908,2024-11-07,49,45-54,Female,United Kingdom,Free,0.0,Not flagged,2,0.5,102.5
+660,2024-11-21,63,55-64,Male,France,Family,14.99,Fraud-flagged,33,0.212,67.121
+571,2024-12-26,88,65+,Other,Germany,Family,14.99,Fraud-flagged,42,0.119,70.286
+396,2023-09-05,98,65+,Female,Japan,Premium,9.99,Not flagged,116,0.198,139.802
+891,2022-10-22,83,65+,Other,South Africa,Premium,9.99,Not flagged,142,0.338,115.599
+564,2022-06-23,60,55-64,Non-binary,South Africa,Free,0.0,Not flagged,84,0.44,105.321
+509,2022-09-11,88,65+,Non-binary,Japan,Premium,9.99,Not flagged,112,0.25,130.375
+727,2021-11-25,65,65+,Non-binary,United Kingdom,Family,14.99,Fraud-flagged,399,0.063,76.175
+705,2023-05-03,57,55-64,Non-binary,Sweden,Premium,9.99,Fraud-flagged,146,0.068,83.842
+831,2024-04-27,23,Under 25,Other,Canada,Free,0.0,Fraud-flagged,15,0.267,57.0
+337,2021-08-22,28,25-34,Non-binary,France,Premium,9.99,Fraud-flagged,306,0.072,74.951
+779,2022-09-17,50,45-54,Prefer not to say,Germany,Premium,9.99,Not flagged,95,0.232,134.853
+679,2022-11-08,62,55-64,Prefer not to say,United States,Family,14.99,Not flagged,241,0.187,140.029
+508,2022-06-29,59,55-64,Male,France,Premium,9.99,Not flagged,392,0.237,132.082
+491,2022-09-27,34,25-34,Male,Germany,Free,0.0,Fraud-flagged,325,0.055,74.148
+794,2021-12-11,86,65+,Non-binary,United Kingdom,Premium,9.99,Fraud-flagged,661,0.092,68.714
+248,2022-02-04,44,35-44,Female,Brazil,Premium,9.99,Not flagged,79,0.19,144.684
+300,2021-03-08,43,35-44,Non-binary,Australia,Family,14.99,Not flagged,127,0.181,145.299
+202,2024-04-28,57,55-64,Female,Australia,Family,14.99,Fraud-flagged,915,0.09,72.344
+334,2024-01-28,47,45-54,Prefer not to say,Germany,Free,0.0,Not flagged,49,0.143,147.857
+314,2021-10-14,28,25-34,Prefer not to say,Japan,Free,0.0,Not flagged,144,0.34,120.132
+505,2021-03-24,91,65+,Male,United States,Family,14.99,Not flagged,251,0.151,145.578
+846,2022-07-29,58,55-64,Female,United States,Premium,9.99,Fraud-flagged,341,0.059,77.152
+479,2021-06-22,88,65+,Female,United States,Premium,9.99,Fraud-flagged,266,0.109,74.481
+721,2022-01-24,32,25-34,Non-binary,Brazil,Premium,9.99,Not flagged,169,0.16,148.521
+496,2022-05-04,58,55-64,Non-binary,Canada,Premium,9.99,Fraud-flagged,911,0.087,71.483
+474,2024-04-17,75,65+,Prefer not to say,Canada,Family,14.99,Fraud-flagged,298,0.05,79.292
+687,2022-08-03,33,25-34,Other,Sweden,Family,14.99,Not flagged,164,0.25,131.341
+729,2023-12-15,46,45-54,Non-binary,Germany,Free,0.0,Fraud-flagged,32,0.25,52.688
+525,2022-10-06,45,45-54,Female,United States,Premium,9.99,Fraud-flagged,358,0.103,73.453
+792,2022-10-31,90,65+,Male,France,Family,14.99,Not flagged,126,0.238,129.508
+390,2024-04-06,79,65+,Male,Japan,Family,14.99,Fraud-flagged,16,0.0,51.25
+823,2023-03-02,73,65+,Prefer not to say,Germany,Premium,9.99,Fraud-flagged,88,0.057,82.205
+654,2024-03-31,13,Under 25,Other,Australia,Free,0.0,Fraud-flagged,26,0.0,85.308
+874,2024-08-20,65,65+,Other,Canada,Premium,9.99,Not flagged,65,0.262,129.477
+885,2022-05-23,16,Under 25,Male,United States,Family,14.99,Fraud-flagged,186,0.081,74.156
+473,2023-04-06,39,35-44,Non-binary,Brazil,Premium,9.99,Not flagged,106,0.349,119.764
+75,2022-05-29,36,35-44,Non-binary,United Kingdom,Free,0.0,Not flagged,32,0.375,114.406
+272,2022-01-07,51,45-54,Non-binary,South Africa,Premium,9.99,Fraud-flagged,1389,0.086,73.505
+377,2022-02-15,80,65+,Prefer not to say,Canada,Free,0.0,Not flagged,25,0.4,109.72
+939,2023-07-16,54,45-54,Female,United Kingdom,Premium,9.99,Fraud-flagged,279,0.068,74.867
+271,2022-07-06,14,Under 25,Non-binary,United States,Premium,9.99,Fraud-flagged,356,0.056,76.626
+567,2023-10-07,95,65+,Other,United States,Premium,9.99,Not flagged,195,0.277,127.077
+462,2021-05-16,47,45-54,Other,Canada,Free,0.0,Not flagged,39,0.308,130.333
+704,2023-09-26,53,45-54,Prefer not to say,Japan,Family,14.99,Fraud-flagged,106,0.066,67.868
+847,2022-07-08,45,45-54,Female,South Africa,Free,0.0,Not flagged,40,0.3,112.6
+251,2021-12-15,77,65+,Prefer not to say,Brazil,Free,0.0,Fraud-flagged,64,0.109,61.0
+426,2023-11-07,33,25-34,Male,Canada,Premium,9.99,Fraud-flagged,307,0.085,74.951
+43,2023-01-01,54,45-54,Female,South Africa,Family,14.99,Not flagged,426,0.225,133.739
+821,2022-08-26,72,65+,Female,France,Premium,9.99,Fraud-flagged,403,0.122,65.489
+555,2022-01-31,71,65+,Non-binary,Germany,Free,0.0,Not flagged,15,0.333,116.6
+936,2021-10-12,90,65+,Non-binary,Germany,Premium,9.99,Fraud-flagged,381,0.087,79.921
+602,2022-12-07,84,65+,Prefer not to say,Canada,Free,0.0,Not flagged,17,0.294,129.235
+694,2024-10-11,80,65+,Prefer not to say,Germany,Family,14.99,Not flagged,18,0.278,126.056
+992,2021-07-14,59,55-64,Non-binary,France,Premium,9.99,Fraud-flagged,2626,0.112,72.669
+673,2023-05-10,19,Under 25,Female,Australia,Free,0.0,Fraud-flagged,194,0.108,72.995
+332,2022-01-01,32,25-34,Other,United Kingdom,Free,0.0,Not flagged,49,0.286,123.939
+469,2023-03-20,44,35-44,Non-binary,Australia,Family,14.99,Fraud-flagged,855,0.063,79.359
+716,2023-08-21,50,45-54,Non-binary,Australia,Free,0.0,Not flagged,18,0.667,71.722
+637,2022-01-05,33,25-34,Male,United States,Premium,9.99,Not flagged,304,0.191,136.905
+558,2024-12-13,82,65+,Female,South Africa,Premium,9.99,Fraud-flagged,12,0.0,61.917
+577,2024-02-28,60,55-64,Other,Japan,Premium,9.99,Fraud-flagged,232,0.073,82.379
+119,2021-08-03,22,Under 25,Non-binary,United States,Family,14.99,Not flagged,291,0.172,143.515
+76,2024-11-13,38,35-44,Non-binary,Australia,Free,0.0,Fraud-flagged,3,0.0,84.667
+111,2021-05-12,90,65+,Other,Japan,Free,0.0,Not flagged,29,0.345,115.0
+478,2023-10-10,80,65+,Female,Sweden,Family,14.99,Fraud-flagged,164,0.073,83.598
+20,2023-12-19,95,65+,Male,Canada,Free,0.0,Not flagged,29,0.172,135.552
+713,2022-04-23,58,55-64,Male,Brazil,Free,0.0,Not flagged,26,0.308,131.077
+214,2021-06-06,56,55-64,Prefer not to say,Australia,Free,0.0,Not flagged,150,0.387,112.993
+495,2023-01-11,83,65+,Other,Japan,Premium,9.99,Fraud-flagged,246,0.065,80.354
+785,2022-02-23,14,Under 25,Other,United Kingdom,Free,0.0,Fraud-flagged,169,0.136,64.68
+492,2024-05-11,79,65+,Female,Japan,Family,14.99,Fraud-flagged,227,0.062,79.515
+380,2023-04-29,18,Under 25,Prefer not to say,United Kingdom,Premium,9.99,Not flagged,123,0.252,136.642
+42,2022-12-07,39,35-44,Female,Germany,Family,14.99,Not flagged,170,0.229,134.147
+388,2022-01-17,22,Under 25,Non-binary,Japan,Free,0.0,Not flagged,95,0.484,101.442
+843,2023-12-19,25,25-34,Non-binary,Germany,Family,14.99,Fraud-flagged,38,0.105,78.632
+117,2021-07-05,58,55-64,Female,Brazil,Family,14.99,Fraud-flagged,2921,0.081,75.219
+967,2022-12-31,72,65+,Other,Brazil,Family,14.99,Fraud-flagged,949,0.089,73.975
+589,2022-11-09,94,65+,Male,South Africa,Premium,9.99,Fraud-flagged,414,0.121,68.8
+321,2021-01-26,65,65+,Female,France,Premium,9.99,Fraud-flagged,3451,0.073,76.924
+848,2023-10-11,62,55-64,Non-binary,Canada,Family,14.99,Fraud-flagged,355,0.127,76.166
+529,2021-02-18,71,65+,Prefer not to say,United States,Family,14.99,Not flagged,84,0.143,146.429
+27,2021-03-05,69,65+,Male,United States,Premium,9.99,Fraud-flagged,223,0.058,79.354
+700,2022-01-17,64,55-64,Non-binary,Japan,Premium,9.99,Fraud-flagged,323,0.08,74.619
+142,2023-08-05,49,45-54,Non-binary,Germany,Free,0.0,Fraud-flagged,109,0.193,61.633
+841,2024-02-09,47,45-54,Female,Australia,Free,0.0,Fraud-flagged,27,0.148,67.778
+61,2021-02-12,83,65+,Prefer not to say,United Kingdom,Premium,9.99,Fraud-flagged,291,0.082,79.014
+206,2022-04-26,63,55-64,Other,United States,Premium,9.99,Not flagged,51,0.294,123.941
+540,2021-03-29,94,65+,Non-binary,Canada,Family,14.99,Fraud-flagged,428,0.061,81.893
+703,2022-03-12,68,65+,Female,Canada,Free,0.0,Fraud-flagged,247,0.15,61.777
+138,2021-11-17,57,55-64,Other,Australia,Free,0.0,Not flagged,118,0.297,124.449
+782,2023-10-28,97,65+,Female,Canada,Family,14.99,Not flagged,83,0.205,142.53
+798,2023-08-21,63,55-64,Female,Japan,Premium,9.99,Not flagged,354,0.178,139.291
+825,2023-02-21,14,Under 25,Prefer not to say,Germany,Family,14.99,Fraud-flagged,295,0.075,78.031
+559,2022-07-14,21,Under 25,Female,France,Family,14.99,Not flagged,69,0.087,154.58
+636,2023-08-16,81,65+,Non-binary,Canada,Premium,9.99,Not flagged,336,0.176,142.661
+552,2023-01-14,72,65+,Male,Sweden,Premium,9.99,Fraud-flagged,151,0.053,74.046
+264,2021-07-25,39,35-44,Prefer not to say,United Kingdom,Free,0.0,Fraud-flagged,112,0.116,69.312
+883,2024-07-15,71,65+,Non-binary,Sweden,Free,0.0,Not flagged,2,0.5,108.5
+466,2023-04-21,27,25-34,Non-binary,Australia,Premium,9.99,Not flagged,245,0.18,141.633
+702,2024-05-19,70,65+,Prefer not to say,Brazil,Family,14.99,Not flagged,125,0.128,148.944
+139,2021-09-28,17,Under 25,Prefer not to say,Canada,Free,0.0,Not flagged,131,0.389,111.718
+302,2023-10-09,35,35-44,Non-binary,France,Free,0.0,Not flagged,11,0.545,87.727
+562,2023-03-25,66,65+,Male,Germany,Free,0.0,Fraud-flagged,308,0.198,60.688
+169,2021-09-07,55,55-64,Female,Australia,Family,14.99,Fraud-flagged,367,0.09,79.183
+500,2023-06-29,53,45-54,Non-binary,United States,Premium,9.99,Not flagged,235,0.149,146.506
+878,2023-06-29,50,45-54,Non-binary,Canada,Premium,9.99,Fraud-flagged,153,0.092,63.895
+309,2022-08-28,37,35-44,Male,Australia,Family,14.99,Not flagged,45,0.178,141.622
+94,2023-08-15,78,65+,Prefer not to say,France,Premium,9.99,Not flagged,128,0.281,124.133
+240,2023-09-17,33,25-34,Prefer not to say,Australia,Premium,9.99,Not flagged,285,0.27,129.8
+568,2022-06-10,33,25-34,Prefer not to say,South Africa,Family,14.99,Fraud-flagged,862,0.08,80.767
+394,2022-01-10,92,65+,Prefer not to say,Australia,Free,0.0,Not flagged,129,0.364,113.682
+656,2024-10-05,92,65+,Female,Australia,Family,14.99,Fraud-flagged,120,0.117,66.817
+966,2021-07-27,95,65+,Non-binary,Japan,Free,0.0,Fraud-flagged,23,0.043,77.522
+799,2023-01-16,13,Under 25,Female,United Kingdom,Free,0.0,Not flagged,84,0.369,113.476
+893,2023-07-20,95,65+,Female,Canada,Free,0.0,Fraud-flagged,83,0.205,68.928
+471,2023-02-06,73,65+,Female,United Kingdom,Free,0.0,Fraud-flagged,15,0.067,87.6
+538,2024-05-09,92,65+,Prefer not to say,Sweden,Premium,9.99,Fraud-flagged,53,0.208,54.925
+531,2024-08-11,32,25-34,Other,Canada,Premium,9.99,Fraud-flagged,67,0.015,75.612
+458,2024-10-14,81,65+,Male,Australia,Premium,9.99,Not flagged,20,0.4,101.75
+211,2021-05-18,61,55-64,Non-binary,South Africa,Free,0.0,Fraud-flagged,14,0.429,28.786
+422,2021-12-06,92,65+,Male,Sweden,Premium,9.99,Not flagged,95,0.232,136.421
+313,2023-03-28,79,65+,Other,United States,Family,14.99,Fraud-flagged,515,0.064,70.643
+860,2022-02-10,94,65+,Male,United Kingdom,Free,0.0,Fraud-flagged,97,0.144,59.948
+79,2024-02-07,74,65+,Female,Canada,Premium,9.99,Not flagged,70,0.243,134.543
+984,2023-03-08,24,Under 25,Male,Germany,Family,14.99,Fraud-flagged,87,0.103,67.333
+498,2024-04-05,14,Under 25,Non-binary,France,Free,0.0,Fraud-flagged,37,0.081,65.0
+310,2023-05-09,74,65+,Female,United Kingdom,Family,14.99,Fraud-flagged,59,0.119,78.034
+695,2023-11-17,34,25-34,Female,Japan,Premium,9.99,Fraud-flagged,94,0.064,81.16
+348,2022-04-29,40,35-44,Prefer not to say,France,Family,14.99,Fraud-flagged,636,0.069,74.11
+297,2024-10-15,81,65+,Prefer not to say,Japan,Free,0.0,Fraud-flagged,20,0.05,100.8
+389,2021-12-24,45,45-54,Non-binary,South Africa,Premium,9.99,Fraud-flagged,58,0.121,72.879
+535,2023-12-02,79,65+,Prefer not to say,United States,Premium,9.99,Fraud-flagged,104,0.067,74.317
+221,2022-04-12,18,Under 25,Female,France,Family,14.99,Not flagged,141,0.184,141.298
+13,2021-09-06,90,65+,Non-binary,Canada,Premium,9.99,Not flagged,340,0.176,140.332
+135,2024-09-21,35,35-44,Female,France,Premium,9.99,Not flagged,54,0.278,132.13
+539,2021-11-02,17,Under 25,Female,Canada,Family,14.99,Fraud-flagged,185,0.092,74.973
+828,2024-11-28,82,65+,Other,United Kingdom,Family,14.99,Not flagged,8,0.125,153.125
+336,2023-10-08,69,65+,Male,Canada,Premium,9.99,Not flagged,115,0.217,140.67
+625,2022-07-29,83,65+,Other,South Africa,Family,14.99,Not flagged,69,0.304,123.174
+378,2022-03-21,19,Under 25,Male,Canada,Premium,9.99,Not flagged,177,0.271,129.712
+950,2024-07-11,99,65+,Prefer not to say,France,Premium,9.99,Fraud-flagged,134,0.134,61.306
+482,2024-10-03,73,65+,Non-binary,Canada,Free,0.0,Fraud-flagged,53,0.038,90.245
+688,2021-08-17,52,45-54,Female,Brazil,Free,0.0,Not flagged,56,0.268,128.911
+979,2022-09-12,83,65+,Male,United Kingdom,Free,0.0,Not flagged,72,0.347,114.944
+572,2023-02-19,91,65+,Male,Japan,Family,14.99,Not flagged,309,0.129,149.32
+765,2024-12-08,41,35-44,Other,United Kingdom,Free,0.0,Fraud-flagged,6,0.0,84.667
+937,2021-01-13,33,25-34,Prefer not to say,France,Family,14.99,Fraud-flagged,483,0.093,78.82
+72,2021-07-03,74,65+,Non-binary,Japan,Family,14.99,Fraud-flagged,69,0.072,96.464
+118,2024-04-10,17,Under 25,Female,Australia,Free,0.0,Fraud-flagged,34,0.118,79.588
+510,2022-05-11,86,65+,Other,United States,Premium,9.99,Fraud-flagged,795,0.072,77.566
+144,2022-01-22,57,55-64,Other,Canada,Family,14.99,Fraud-flagged,94,0.149,73.372
+499,2024-12-16,78,65+,Female,Japan,Free,0.0,Not flagged,2,0.5,86.0
+855,2023-02-12,20,Under 25,Prefer not to say,Brazil,Family,14.99,Not flagged,203,0.123,150.453
+95,2021-10-18,59,55-64,Male,United Kingdom,Free,0.0,Not flagged,21,0.238,131.286
+387,2023-12-30,16,Under 25,Non-binary,Germany,Family,14.99,Fraud-flagged,113,0.177,65.186
+921,2022-01-15,32,25-34,Non-binary,Australia,Premium,9.99,Not flagged,322,0.146,146.913
+541,2022-03-09,55,55-64,Other,Japan,Family,14.99,Not flagged,158,0.196,140.684
+120,2022-01-15,92,65+,Female,United Kingdom,Premium,9.99,Fraud-flagged,198,0.146,63.02
+719,2024-10-13,53,45-54,Other,Canada,Family,14.99,Not flagged,9,0.444,97.333
+58,2023-11-29,27,25-34,Male,South Africa,Family,14.99,Fraud-flagged,921,0.076,75.2
+744,2023-11-26,64,55-64,Other,Germany,Free,0.0,Not flagged,19,0.158,137.158
+464,2023-11-04,38,35-44,Prefer not to say,France,Family,14.99,Not flagged,73,0.096,156.918
+517,2024-10-10,67,65+,Female,South Africa,Free,0.0,Not flagged,26,0.308,118.731
+894,2022-06-05,78,65+,Other,South Africa,Family,14.99,Not flagged,102,0.225,135.373
+733,2022-09-05,27,25-34,Non-binary,United States,Family,14.99,Fraud-flagged,342,0.064,74.915
+789,2022-01-13,76,65+,Non-binary,Japan,Premium,9.99,Fraud-flagged,1853,0.128,71.066
+151,2022-09-05,96,65+,Prefer not to say,Brazil,Free,0.0,Fraud-flagged,88,0.148,65.898
+423,2022-02-18,24,Under 25,Other,Canada,Premium,9.99,Fraud-flagged,777,0.089,76.525
+915,2023-01-19,34,25-34,Female,Canada,Family,14.99,Fraud-flagged,147,0.129,71.0
+877,2024-07-17,43,35-44,Prefer not to say,Germany,Free,0.0,Not flagged,44,0.25,127.159
+461,2023-06-30,27,25-34,Other,Canada,Family,14.99,Fraud-flagged,1476,0.071,78.223
+220,2022-05-19,58,55-64,Non-binary,United Kingdom,Premium,9.99,Fraud-flagged,780,0.076,74.045
+404,2021-12-06,58,55-64,Female,United States,Family,14.99,Not flagged,117,0.179,145.829
+751,2023-10-02,83,65+,Other,Germany,Free,0.0,Fraud-flagged,44,0.136,56.386
+780,2024-11-26,26,25-34,Prefer not to say,Canada,Free,0.0,Not flagged,2,0.5,93.0
+393,2024-07-28,64,55-64,Non-binary,Sweden,Free,0.0,Not flagged,16,0.312,115.5
+432,2021-02-19,93,65+,Other,Canada,Family,14.99,Not flagged,91,0.11,154.714
+771,2023-06-30,21,Under 25,Male,Australia,Premium,9.99,Not flagged,49,0.184,134.939
+263,2023-09-03,26,25-34,Prefer not to say,South Africa,Free,0.0,Fraud-flagged,120,0.117,72.858
+38,2024-09-11,93,65+,Other,Canada,Family,14.99,Fraud-flagged,196,0.153,64.0
+741,2022-01-14,52,45-54,Male,Canada,Free,0.0,Fraud-flagged,115,0.191,62.704
+154,2022-05-05,83,65+,Non-binary,Brazil,Premium,9.99,Fraud-flagged,706,0.093,73.847
+401,2024-11-03,29,25-34,Non-binary,Australia,Free,0.0,Fraud-flagged,11,0.091,56.091
+487,2021-04-02,28,25-34,Male,Germany,Family,14.99,Not flagged,65,0.231,141.508
+226,2023-04-19,85,65+,Prefer not to say,Canada,Family,14.99,Fraud-flagged,206,0.068,79.398
+919,2024-09-06,62,55-64,Non-binary,Australia,Free,0.0,Not flagged,4,0.0,182.25
+50,2021-07-20,57,55-64,Male,United States,Family,14.99,Not flagged,324,0.188,141.713
+424,2023-10-17,67,65+,Other,Australia,Family,14.99,Not flagged,39,0.205,137.872
+12,2021-08-26,49,45-54,Female,Sweden,Free,0.0,Not flagged,10,0.2,130.5
+122,2024-09-10,61,55-64,Prefer not to say,South Africa,Premium,9.99,Fraud-flagged,291,0.158,62.622
+857,2024-10-30,20,Under 25,Female,United Kingdom,Free,0.0,Fraud-flagged,5,0.0,87.6
+33,2021-09-02,49,45-54,Prefer not to say,United Kingdom,Premium,9.99,Fraud-flagged,638,0.063,77.824
+83,2021-03-18,53,45-54,Non-binary,Japan,Family,14.99,Fraud-flagged,268,0.049,84.701
+943,2022-07-31,28,25-34,Prefer not to say,Brazil,Premium,9.99,Fraud-flagged,387,0.065,74.703
+521,2023-10-02,25,25-34,Male,Germany,Family,14.99,Not flagged,55,0.291,126.073
+109,2024-01-25,24,Under 25,Non-binary,United Kingdom,Premium,9.99,Fraud-flagged,434,0.092,74.882
+684,2024-04-23,65,65+,Male,Brazil,Premium,9.99,Fraud-flagged,231,0.065,71.74
+51,2023-08-31,29,25-34,Non-binary,France,Free,0.0,Fraud-flagged,101,0.129,56.436
+726,2024-11-24,18,Under 25,Female,South Africa,Free,0.0,Not flagged,7,0.429,79.571
+374,2023-11-27,52,45-54,Female,Germany,Family,14.99,Not flagged,138,0.362,115.746
+65,2022-06-27,32,25-34,Female,Australia,Family,14.99,Fraud-flagged,282,0.064,80.688
+22,2024-09-13,19,Under 25,Male,Germany,Premium,9.99,Not flagged,40,0.325,127.2
+638,2022-04-15,19,Under 25,Prefer not to say,Australia,Family,14.99,Not flagged,85,0.329,117.765
+197,2021-09-02,79,65+,Other,United States,Premium,9.99,Not flagged,267,0.172,144.547
+547,2022-08-09,41,35-44,Prefer not to say,Sweden,Premium,9.99,Fraud-flagged,641,0.073,72.849
+845,2024-08-28,89,65+,Other,Germany,Family,14.99,Not flagged,45,0.378,112.889
+835,2021-12-31,81,65+,Non-binary,United Kingdom,Free,0.0,Not flagged,80,0.288,127.388
+261,2023-09-02,89,65+,Non-binary,Japan,Family,14.99,Fraud-flagged,81,0.099,76.37
+201,2022-06-26,22,Under 25,Female,United Kingdom,Premium,9.99,Not flagged,280,0.229,133.454
+73,2021-02-15,16,Under 25,Prefer not to say,Canada,Family,14.99,Fraud-flagged,1427,0.064,79.02
+763,2022-03-27,45,45-54,Female,Canada,Premium,9.99,Fraud-flagged,794,0.062,76.71
+230,2021-04-03,92,65+,Non-binary,Australia,Free,0.0,Not flagged,18,0.333,127.111
+318,2023-05-04,72,65+,Prefer not to say,Japan,Premium,9.99,Fraud-flagged,855,0.083,75.442
+245,2023-09-28,33,25-34,Female,Brazil,Family,14.99,Not flagged,38,0.237,127.026
+103,2023-09-08,67,65+,Male,Sweden,Premium,9.99,Not flagged,226,0.226,135.624
+329,2024-07-12,68,65+,Prefer not to say,Brazil,Premium,9.99,Not flagged,214,0.159,143.804
+273,2023-02-07,71,65+,Non-binary,United States,Family,14.99,Not flagged,107,0.243,127.084
+957,2024-03-08,97,65+,Other,United States,Free,0.0,Not flagged,2,0.5,92.0
+190,2021-06-18,90,65+,Non-binary,United Kingdom,Free,0.0,Not flagged,40,0.4,112.225
+162,2021-09-08,91,65+,Non-binary,France,Premium,9.99,Not flagged,278,0.137,148.507
+754,2023-03-20,63,55-64,Other,Australia,Premium,9.99,Fraud-flagged,610,0.107,71.118
+265,2022-09-09,61,55-64,Prefer not to say,United States,Premium,9.99,Fraud-flagged,188,0.133,61.101
+689,2021-10-28,29,25-34,Other,Canada,Free,0.0,Not flagged,123,0.309,125.39
+650,2022-08-15,40,35-44,Male,Brazil,Free,0.0,Not flagged,44,0.341,120.977
+397,2023-07-18,91,65+,Male,Sweden,Free,0.0,Fraud-flagged,86,0.116,66.337
+774,2023-04-22,56,55-64,Other,Japan,Family,14.99,Not flagged,298,0.141,148.312
+817,2022-12-27,13,Under 25,Female,Sweden,Premium,9.99,Not flagged,212,0.203,141.151
+805,2022-04-02,76,65+,Male,Brazil,Free,0.0,Fraud-flagged,245,0.098,65.763
+199,2024-11-22,32,25-34,Male,United States,Free,0.0,Not flagged,5,0.6,87.6
+283,2023-04-07,25,25-34,Other,Australia,Free,0.0,Not flagged,15,0.333,111.067
+844,2023-09-04,66,65+,Non-binary,Brazil,Premium,9.99,Fraud-flagged,237,0.072,73.979
+511,2023-03-11,24,Under 25,Male,Australia,Family,14.99,Not flagged,80,0.338,117.225
+3,2024-03-07,52,45-54,Male,Japan,Premium,9.99,Fraud-flagged,358,0.07,73.372
+690,2024-05-03,24,Under 25,Male,Japan,Free,0.0,Fraud-flagged,8,0.125,87.5
+279,2023-09-29,50,45-54,Female,Sweden,Premium,9.99,Fraud-flagged,152,0.066,79.079
+653,2022-03-06,67,65+,Male,Australia,Free,0.0,Fraud-flagged,159,0.132,75.969
+639,2021-05-10,59,55-64,Male,Brazil,Free,0.0,Fraud-flagged,78,0.103,60.346
+603,2024-04-23,38,35-44,Other,France,Free,0.0,Not flagged,14,0.286,132.357
+8,2022-02-14,69,65+,Female,United States,Free,0.0,Not flagged,19,0.474,102.684
+699,2024-05-15,21,Under 25,Non-binary,Brazil,Family,14.99,Fraud-flagged,487,0.16,66.378
+981,2024-11-12,30,25-34,Other,South Africa,Premium,9.99,Fraud-flagged,66,0.197,58.591
+425,2023-03-17,82,65+,Prefer not to say,Sweden,Family,14.99,Fraud-flagged,397,0.055,77.31
+392,2021-12-08,38,35-44,Female,United Kingdom,Premium,9.99,Not flagged,68,0.221,136.809
+428,2023-05-15,78,65+,Other,Canada,Family,14.99,Fraud-flagged,439,0.057,83.005
+359,2024-03-11,78,65+,Prefer not to say,Australia,Free,0.0,Not flagged,10,0.3,125.6
+371,2021-09-09,21,Under 25,Female,France,Premium,9.99,Not flagged,238,0.231,134.63
+994,2024-01-21,56,55-64,Other,South Africa,Free,0.0,Fraud-flagged,81,0.099,78.914
+728,2024-11-23,59,55-64,Female,Canada,Premium,9.99,Fraud-flagged,12,0.167,63.083
+21,2021-10-16,30,25-34,Male,Sweden,Premium,9.99,Fraud-flagged,2021,0.08,76.725
+611,2023-08-16,98,65+,Male,Australia,Free,0.0,Fraud-flagged,269,0.13,68.401
+486,2022-06-11,32,25-34,Female,United Kingdom,Free,0.0,Not flagged,75,0.253,127.48
+416,2021-02-07,22,Under 25,Male,Australia,Family,14.99,Fraud-flagged,827,0.087,76.192
+990,2021-09-12,86,65+,Non-binary,United States,Premium,9.99,Not flagged,159,0.252,134.572
+506,2023-03-15,79,65+,Prefer not to say,South Africa,Free,0.0,Fraud-flagged,101,0.139,75.069
+186,2023-11-01,71,65+,Prefer not to say,France,Family,14.99,Fraud-flagged,175,0.08,73.04
+31,2021-01-09,69,65+,Female,Sweden,Free,0.0,Fraud-flagged,174,0.115,67.983
+520,2021-08-25,30,25-34,Non-binary,Brazil,Premium,9.99,Fraud-flagged,223,0.081,72.489
+32,2023-05-25,85,65+,Non-binary,United Kingdom,Family,14.99,Fraud-flagged,83,0.06,69.627
+903,2022-02-25,42,35-44,Other,Canada,Free,0.0,Fraud-flagged,137,0.182,61.934
+436,2022-06-18,62,55-64,Non-binary,United States,Premium,9.99,Fraud-flagged,1015,0.098,74.033
+405,2024-11-13,13,Under 25,Female,Japan,Premium,9.99,Not flagged,16,0.062,156.5
+216,2024-05-02,37,35-44,Other,United Kingdom,Premium,9.99,Not flagged,70,0.243,119.686
+565,2023-10-12,16,Under 25,Non-binary,Japan,Family,14.99,Fraud-flagged,101,0.059,74.921
+566,2023-07-27,51,45-54,Non-binary,United States,Premium,9.99,Fraud-flagged,242,0.091,86.095
+434,2021-01-11,91,65+,Non-binary,Sweden,Family,14.99,Not flagged,221,0.154,144.674
+963,2023-12-26,40,35-44,Non-binary,Australia,Free,0.0,Not flagged,4,0.25,123.5
+826,2023-09-17,88,65+,Non-binary,Australia,Free,0.0,Not flagged,6,0.5,91.667
+177,2022-06-22,81,65+,Female,France,Family,14.99,Not flagged,153,0.353,114.948
+167,2023-10-11,57,55-64,Prefer not to say,Sweden,Premium,9.99,Not flagged,517,0.174,146.513
+938,2023-02-05,56,55-64,Other,South Africa,Family,14.99,Not flagged,147,0.224,140.041
+354,2023-06-27,80,65+,Other,Brazil,Free,0.0,Fraud-flagged,104,0.115,72.712
+379,2022-06-12,26,25-34,Other,France,Free,0.0,Not flagged,22,0.364,116.455
+184,2024-05-23,33,25-34,Prefer not to say,France,Family,14.99,Not flagged,85,0.306,125.847
+920,2022-10-29,53,45-54,Prefer not to say,South Africa,Free,0.0,Not flagged,10,0.7,55.5
+987,2021-04-23,61,55-64,Non-binary,South Africa,Premium,9.99,Fraud-flagged,54,0.111,81.204
+714,2023-02-23,41,35-44,Non-binary,United States,Family,14.99,Fraud-flagged,359,0.089,73.602
+449,2023-08-25,97,65+,Non-binary,United Kingdom,Free,0.0,Not flagged,32,0.281,135.969
+450,2022-01-16,92,65+,Female,Germany,Premium,9.99,Fraud-flagged,174,0.052,69.695
+35,2023-01-25,26,25-34,Non-binary,South Africa,Premium,9.99,Fraud-flagged,786,0.134,70.447
+191,2023-02-24,47,45-54,Other,Australia,Family,14.99,Fraud-flagged,125,0.056,80.544
+757,2023-09-27,64,55-64,Non-binary,France,Family,14.99,Fraud-flagged,179,0.106,72.899
+86,2023-07-31,34,25-34,Female,United States,Family,14.99,Fraud-flagged,127,0.039,75.26
+561,2021-06-24,88,65+,Female,Brazil,Free,0.0,Fraud-flagged,140,0.071,73.364
+781,2022-05-17,75,65+,Female,Brazil,Premium,9.99,Not flagged,392,0.168,142.602
+269,2023-04-04,19,Under 25,Male,United Kingdom,Family,14.99,Not flagged,150,0.167,146.453
+902,2021-04-21,37,35-44,Male,Japan,Family,14.99,Fraud-flagged,374,0.061,75.586
+929,2023-08-17,84,65+,Non-binary,South Africa,Free,0.0,Not flagged,85,0.365,111.6
+316,2021-07-05,81,65+,Other,United Kingdom,Premium,9.99,Fraud-flagged,323,0.099,82.693
+522,2022-01-10,64,55-64,Prefer not to say,Canada,Family,14.99,Not flagged,344,0.218,139.128
+161,2024-04-19,18,Under 25,Other,France,Free,0.0,Not flagged,26,0.269,129.538
+349,2021-06-14,32,25-34,Non-binary,Japan,Premium,9.99,Fraud-flagged,302,0.113,68.477
+952,2021-02-26,39,35-44,Male,Japan,Premium,9.99,Not flagged,72,0.111,148.028
+692,2021-07-11,21,Under 25,Non-binary,France,Premium,9.99,Not flagged,72,0.264,131.153
+737,2024-12-16,28,25-34,Male,Japan,Premium,9.99,Not flagged,7,0.0,163.571
+278,2021-07-03,63,55-64,Non-binary,United States,Free,0.0,Fraud-flagged,44,0.136,75.318
+609,2021-11-23,77,65+,Prefer not to say,Canada,Family,14.99,Not flagged,144,0.271,126.299
+850,2024-01-20,66,65+,Male,Canada,Family,14.99,Fraud-flagged,433,0.092,68.721
+579,2022-05-05,58,55-64,Male,Japan,Free,0.0,Fraud-flagged,193,0.145,73.005
+437,2023-11-24,79,65+,Female,United Kingdom,Family,14.99,Not flagged,27,0.296,123.704
+873,2023-08-30,80,65+,Other,Canada,Free,0.0,Fraud-flagged,84,0.119,71.905
+906,2022-09-08,68,65+,Prefer not to say,France,Family,14.99,Not flagged,104,0.135,153.769
+93,2024-03-10,24,Under 25,Other,United States,Family,14.99,Fraud-flagged,89,0.067,92.607
+328,2023-05-16,67,65+,Prefer not to say,Sweden,Free,0.0,Not flagged,9,0.222,143.556
+472,2022-02-13,55,55-64,Prefer not to say,South Africa,Free,0.0,Fraud-flagged,113,0.115,67.496
+234,2024-06-14,21,Under 25,Non-binary,Australia,Family,14.99,Fraud-flagged,240,0.15,62.779
+205,2024-03-03,17,Under 25,Female,South Africa,Premium,9.99,Fraud-flagged,417,0.084,71.235
+706,2023-05-25,22,Under 25,Non-binary,Japan,Free,0.0,Fraud-flagged,28,0.0,73.214
+188,2021-07-17,90,65+,Other,United States,Family,14.99,Not flagged,359,0.167,145.148
+977,2021-10-30,45,45-54,Non-binary,Japan,Premium,9.99,Fraud-flagged,427,0.101,72.211
+986,2021-05-12,77,65+,Female,Germany,Free,0.0,Not flagged,63,0.302,123.048
+319,2022-08-17,88,65+,Non-binary,South Africa,Family,14.99,Not flagged,78,0.218,132.756
+793,2022-03-21,39,35-44,Female,Australia,Family,14.99,Not flagged,225,0.178,139.102
+814,2024-09-30,22,Under 25,Other,France,Free,0.0,Fraud-flagged,3,0.333,58.667
+315,2022-12-31,59,55-64,Male,United States,Free,0.0,Fraud-flagged,8,0.25,47.75
+82,2024-02-09,44,35-44,Female,France,Premium,9.99,Fraud-flagged,574,0.136,65.289
+649,2021-09-13,83,65+,Non-binary,Germany,Premium,9.99,Not flagged,127,0.197,140.606
+212,2024-08-09,93,65+,Other,Australia,Free,0.0,Fraud-flagged,45,0.133,48.422
+488,2022-10-09,95,65+,Prefer not to say,Australia,Premium,9.99,Fraud-flagged,634,0.076,77.756
+947,2021-12-09,69,65+,Prefer not to say,Canada,Family,14.99,Not flagged,185,0.243,133.832
+670,2024-11-06,75,65+,Other,Germany,Premium,9.99,Not flagged,16,0.125,152.812
+232,2021-11-15,67,65+,Female,France,Premium,9.99,Fraud-flagged,114,0.061,74.158
+593,2024-02-22,70,65+,Male,Sweden,Family,14.99,Fraud-flagged,139,0.086,74.871
+442,2023-10-13,81,65+,Prefer not to say,France,Premium,9.99,Not flagged,68,0.221,140.029
+153,2021-03-24,96,65+,Male,Brazil,Premium,9.99,Not flagged,469,0.222,136.377
+439,2021-02-16,58,55-64,Other,France,Free,0.0,Fraud-flagged,43,0.023,65.372
+809,2024-11-21,28,25-34,Female,Australia,Premium,9.99,Fraud-flagged,18,0.222,58.111
+715,2023-03-11,96,65+,Male,South Africa,Family,14.99,Not flagged,153,0.209,135.301
+556,2023-09-26,59,55-64,Prefer not to say,South Africa,Family,14.99,Fraud-flagged,121,0.083,75.438
+408,2024-07-23,73,65+,Non-binary,France,Free,0.0,Not flagged,15,0.067,149.4
+867,2024-12-20,48,45-54,Female,South Africa,Free,0.0,Fraud-flagged,5,0.0,58.4
+576,2022-05-07,50,45-54,Other,South Africa,Free,0.0,Fraud-flagged,14,0.071,69.929
+115,2024-09-01,65,65+,Other,Canada,Premium,9.99,Fraud-flagged,171,0.105,72.047
+7,2022-08-05,50,45-54,Female,South Africa,Premium,9.99,Not flagged,97,0.247,130.34
+905,2022-11-07,74,65+,Female,Canada,Free,0.0,Fraud-flagged,116,0.138,65.784
+484,2022-06-11,51,45-54,Non-binary,Brazil,Premium,9.99,Not flagged,235,0.268,131.655
+254,2024-09-17,23,Under 25,Male,United States,Free,0.0,Not flagged,3,0.333,128.667
+459,2021-02-18,39,35-44,Prefer not to say,South Africa,Premium,9.99,Fraud-flagged,70,0.057,76.371
+655,2021-10-12,80,65+,Prefer not to say,Australia,Family,14.99,Fraud-flagged,320,0.066,76.666
+253,2024-04-10,22,Under 25,Female,Brazil,Free,0.0,Not flagged,9,0.444,116.556
+586,2022-06-11,92,65+,Female,Germany,Free,0.0,Fraud-flagged,28,0.179,63.786
+40,2021-11-22,23,Under 25,Male,South Africa,Family,14.99,Fraud-flagged,146,0.068,80.589
+900,2021-11-21,50,45-54,Non-binary,Germany,Premium,9.99,Fraud-flagged,470,0.089,74.528
+340,2023-06-09,86,65+,Female,United Kingdom,Premium,9.99,Fraud-flagged,523,0.08,73.185
+304,2024-11-02,72,65+,Female,South Africa,Family,14.99,Not flagged,14,0.286,128.071
+26,2023-07-02,84,65+,Male,Brazil,Family,14.99,Fraud-flagged,273,0.099,69.557
+274,2023-09-14,45,45-54,Male,Australia,Family,14.99,Fraud-flagged,1534,0.074,73.717
+123,2024-08-28,58,55-64,Female,Sweden,Premium,9.99,Fraud-flagged,84,0.131,62.726
+946,2022-11-05,50,45-54,Male,Brazil,Family,14.99,Not flagged,168,0.167,145.143
+587,2021-06-07,52,45-54,Other,Australia,Free,0.0,Fraud-flagged,168,0.101,69.315
+185,2022-12-19,38,35-44,Male,France,Premium,9.99,Fraud-flagged,848,0.103,72.162
+246,2022-08-04,41,35-44,Other,South Africa,Premium,9.99,Fraud-flagged,647,0.07,73.396
+70,2021-02-06,61,55-64,Other,Australia,Family,14.99,Not flagged,235,0.157,143.315
+722,2021-02-22,45,45-54,Male,Germany,Family,14.99,Fraud-flagged,1772,0.097,73.968
+356,2024-01-06,18,Under 25,Male,Australia,Family,14.99,Not flagged,237,0.321,115.439
+926,2024-01-07,45,45-54,Other,France,Family,14.99,Not flagged,85,0.224,136.706
+78,2023-08-21,49,45-54,Other,South Africa,Premium,9.99,Fraud-flagged,248,0.077,71.899
+803,2022-11-09,48,45-54,Other,Canada,Family,14.99,Fraud-flagged,287,0.07,74.753
+718,2021-01-10,41,35-44,Male,Australia,Premium,9.99,Fraud-flagged,1065,0.083,74.241
+899,2022-04-24,46,45-54,Other,Brazil,Free,0.0,Fraud-flagged,146,0.144,62.753
+940,2022-06-11,86,65+,Male,France,Free,0.0,Not flagged,113,0.389,111.876
+948,2022-07-01,99,65+,Female,United Kingdom,Free,0.0,Not flagged,13,0.231,127.538
+675,2023-10-28,71,65+,Male,Australia,Free,0.0,Fraud-flagged,59,0.085,86.339
+407,2022-11-17,95,65+,Female,Australia,Family,14.99,Fraud-flagged,120,0.108,70.217
+804,2024-06-27,45,45-54,Female,Japan,Premium,9.99,Fraud-flagged,224,0.107,71.384
+244,2021-03-07,17,Under 25,Prefer not to say,Brazil,Free,0.0,Not flagged,69,0.391,105.478
+256,2022-11-11,58,55-64,Male,Germany,Premium,9.99,Fraud-flagged,201,0.144,80.572
+301,2021-09-08,49,45-54,Male,France,Family,14.99,Fraud-flagged,452,0.06,74.162
+852,2022-05-07,44,35-44,Other,United States,Free,0.0,Fraud-flagged,347,0.141,69.692
+941,2024-02-08,16,Under 25,Female,South Africa,Free,0.0,Not flagged,13,0.308,134.923
+16,2023-12-17,97,65+,Other,Australia,Family,14.99,Fraud-flagged,594,0.096,68.924
+200,2022-07-07,55,55-64,Non-binary,Germany,Premium,9.99,Not flagged,168,0.232,134.476
+910,2023-06-14,40,35-44,Other,Sweden,Premium,9.99,Not flagged,349,0.241,135.656
+60,2023-04-23,37,35-44,Non-binary,Sweden,Premium,9.99,Not flagged,38,0.184,151.553
+386,2022-10-15,27,25-34,Other,Brazil,Premium,9.99,Fraud-flagged,565,0.087,75.931
+628,2021-05-03,25,25-34,Other,France,Family,14.99,Fraud-flagged,1213,0.087,73.436
+172,2022-11-10,57,55-64,Prefer not to say,United States,Premium,9.99,Not flagged,99,0.202,143.343
+582,2022-11-30,42,35-44,Non-binary,Germany,Free,0.0,Fraud-flagged,15,0.067,84.133
+959,2024-06-14,89,65+,Non-binary,South Africa,Family,14.99,Not flagged,32,0.219,132.344
+542,2024-02-19,59,55-64,Other,Germany,Family,14.99,Fraud-flagged,204,0.108,73.975
+790,2024-06-09,85,65+,Female,Sweden,Free,0.0,Fraud-flagged,26,0.154,76.423
+807,2023-03-31,13,Under 25,Male,France,Family,14.99,Fraud-flagged,914,0.074,78.822
+481,2023-10-03,90,65+,Female,France,Free,0.0,Fraud-flagged,53,0.094,70.132
+457,2024-10-16,65,65+,Other,United States,Family,14.99,Not flagged,12,0.333,115.917
+888,2022-02-17,14,Under 25,Female,South Africa,Premium,9.99,Not flagged,127,0.181,143.898
+222,2022-01-01,18,Under 25,Male,Sweden,Free,0.0,Fraud-flagged,237,0.11,69.743
+494,2023-05-12,27,25-34,Prefer not to say,Canada,Free,0.0,Not flagged,38,0.184,142.632
+166,2021-08-23,57,55-64,Female,Brazil,Premium,9.99,Not flagged,1005,0.185,142.826
+406,2024-07-15,96,65+,Prefer not to say,Canada,Free,0.0,Not flagged,5,0.2,134.0
+29,2024-11-05,42,35-44,Prefer not to say,Japan,Free,0.0,Not flagged,3,0.0,165.0
+806,2023-02-04,18,Under 25,Prefer not to say,Sweden,Premium,9.99,Fraud-flagged,361,0.061,76.626
+140,2021-08-02,92,65+,Non-binary,France,Family,14.99,Not flagged,755,0.234,133.419
+305,2021-12-25,63,55-64,Male,France,Premium,9.99,Not flagged,146,0.192,142.966
+778,2023-02-10,33,25-34,Other,Brazil,Premium,9.99,Fraud-flagged,699,0.076,73.494
+978,2023-08-24,30,25-34,Male,Sweden,Free,0.0,Fraud-flagged,84,0.131,69.81
+338,2024-09-11,61,55-64,Male,South Africa,Free,0.0,Fraud-flagged,54,0.111,75.944
+398,2024-06-08,94,65+,Other,Germany,Premium,9.99,Not flagged,67,0.224,136.866
+574,2022-07-05,25,25-34,Non-binary,Germany,Premium,9.99,Not flagged,211,0.227,138.678
+121,2023-08-29,68,65+,Male,South Africa,Family,14.99,Not flagged,86,0.36,116.86
+235,2023-12-31,59,55-64,Non-binary,France,Free,0.0,Not flagged,17,0.235,128.0
+77,2021-06-22,26,25-34,Other,Australia,Free,0.0,Fraud-flagged,89,0.157,56.124
+417,2023-08-18,17,Under 25,Non-binary,South Africa,Free,0.0,Not flagged,11,0.273,128.545
+233,2023-06-07,58,55-64,Male,Canada,Family,14.99,Fraud-flagged,36,0.111,62.583
+217,2023-12-04,84,65+,Other,Canada,Premium,9.99,Fraud-flagged,142,0.077,77.204
+697,2021-02-08,29,25-34,Non-binary,Canada,Premium,9.99,Fraud-flagged,1385,0.061,78.146
+731,2022-06-11,81,65+,Male,Australia,Free,0.0,Not flagged,22,0.409,107.636
+976,2021-01-01,79,65+,Male,Japan,Family,14.99,Fraud-flagged,451,0.075,76.231
+648,2021-01-16,94,65+,Male,United Kingdom,Premium,9.99,Fraud-flagged,231,0.069,71.675
+236,2023-05-25,30,25-34,Female,Canada,Family,14.99,Fraud-flagged,84,0.095,72.143
